@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2017-06-17 21:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2017-06-10 22:25:13 +0000"
@@ -212,6 +218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2017-06-17 21:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2017-06-11 16:17:50 +0000"
@@ -359,6 +371,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2017-06-11 20:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2017-06-17 23:39:13 +0000"
     },
     "done": true
   },
@@ -788,6 +806,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2017-06-10 20:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2017-06-18 14:20:33 +0000"
     },
     "done": true
   },

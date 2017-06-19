@@ -229,6 +229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2017-06-17 04:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2017-06-09 18:54:10 +0000"
@@ -343,6 +349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2017-06-17 05:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-09 19:25:29 +0000"
@@ -428,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2017-06-19 02:06:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2017-06-09 19:13:02 +0000"
@@ -503,6 +521,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2017-06-11 02:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2017-06-17 05:08:52 +0000"
     },
     "done": true
   },
@@ -727,6 +751,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2017-06-17 03:21:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2017-06-09 19:19:50 +0000"
@@ -805,6 +835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2017-06-17 04:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2017-06-09 18:35:27 +0000"
@@ -832,6 +868,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2017-06-09 19:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2017-06-17 05:08:52 +0000"
     },
     "done": true
   },
@@ -1320,6 +1362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-06-17 05:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2017-06-09 21:41:26 +0000"
@@ -1431,6 +1479,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2017-06-09 18:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2017-06-17 03:28:31 +0000"
     },
     "done": true
   },
@@ -2005,6 +2059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2017-06-17 19:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2017-06-09 18:35:27 +0000"
@@ -2408,9 +2468,21 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2017-06-19 15:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2017-06-09 19:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2017-06-17 05:08:52 +0000"
     },
     "done": true
   },

@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2017-06-18 01:10:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2017-06-09 20:22:11 +0000"
@@ -116,6 +122,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_brick": "2017-06-10 03:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2017-06-17 20:46:48 +0000"
     },
     "done": true
   },
@@ -266,6 +278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2017-06-17 20:46:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2017-06-09 20:10:26 +0000"
@@ -413,6 +431,18 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2017-06-10 03:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2017-06-17 20:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2017-06-17 21:35:04 +0000"
     },
     "done": true
   },
@@ -779,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2017-06-17 20:46:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2017-06-09 20:20:14 +0000"
@@ -1013,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2017-06-17 20:38:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-09 20:21:11 +0000"
@@ -1033,6 +1075,7 @@
       "skeleton": "2017-06-10 16:34:39 +0000",
       "husk": "2017-06-10 18:24:35 +0000",
       "zombie": "2017-06-10 03:59:33 +0000",
+      "cave_spider": "2017-06-17 19:57:50 +0000",
       "witch": "2017-06-10 22:51:08 +0000",
       "guardian": "2017-06-10 03:46:53 +0000",
       "spider": "2017-06-10 04:00:21 +0000",
@@ -1063,6 +1106,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2017-06-10 16:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2017-06-18 22:56:14 +0000"
     },
     "done": true
   },
@@ -1336,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2017-06-17 03:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_gray_dye": "2017-06-09 20:21:49 +0000"
@@ -1426,6 +1481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2017-06-18 01:10:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2017-06-09 20:22:11 +0000"
@@ -1492,6 +1553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2017-06-17 20:38:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-06-09 20:17:29 +0000"
@@ -1534,6 +1601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2017-06-17 02:15:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2017-06-09 20:25:42 +0000"
@@ -1543,6 +1616,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2017-06-09 20:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2017-06-17 21:33:02 +0000"
     },
     "done": true
   },
@@ -2116,6 +2195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2017-06-17 20:46:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2017-06-09 20:22:50 +0000"
@@ -2137,6 +2222,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2017-06-09 20:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2017-06-17 20:42:44 +0000"
     },
     "done": true
   },
@@ -2173,6 +2264,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2017-06-09 20:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2017-06-17 02:15:29 +0000"
     },
     "done": true
   },

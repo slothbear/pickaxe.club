@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2017-06-10 03:31:42 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2017-06-09 21:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
     },
     "done": true
   },
@@ -146,6 +158,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2017-06-10 03:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
     },
     "done": true
   },
@@ -271,6 +289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2017-06-09 21:44:45 +0000"
@@ -286,6 +310,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2017-06-09 21:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2017-06-17 15:31:18 +0000"
     },
     "done": true
   },
@@ -349,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2017-06-09 22:52:28 +0000"
@@ -378,6 +414,7 @@
       "cooked_porkchop": "2017-06-10 05:47:56 +0000",
       "chorus_fruit": "2017-06-10 00:56:51 +0000",
       "cooked_beef": "2017-06-10 02:14:37 +0000",
+      "potato": "2017-06-17 20:32:01 +0000",
       "cooked_cod": "2017-06-09 21:54:17 +0000",
       "cooked_chicken": "2017-06-10 01:17:47 +0000"
     },
@@ -434,6 +471,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2017-06-10 03:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
     },
     "done": true
   },
@@ -541,6 +584,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_chicken": "2017-06-17 14:12:34 +0000",
+      "bred_sheep": "2017-06-17 03:16:48 +0000",
       "bred_cow": "2017-06-10 02:37:04 +0000"
     },
     "done": false
@@ -566,6 +611,12 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2017-06-10 02:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
     },
     "done": true
   },
@@ -650,6 +701,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-10 06:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
     },
     "done": true
   },
@@ -836,6 +893,7 @@
       "zombie": "2017-06-10 05:38:56 +0000",
       "guardian": "2017-06-11 04:08:38 +0000",
       "spider": "2017-06-10 06:08:46 +0000",
+      "creeper": "2017-06-17 03:03:05 +0000",
       "enderman": "2017-06-09 22:00:02 +0000"
     },
     "done": false
@@ -900,6 +958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-10 06:27:10 +0000"
@@ -915,6 +979,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2017-06-10 06:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2017-06-17 03:07:57 +0000"
     },
     "done": true
   },
@@ -984,6 +1054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2017-06-17 03:07:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-10 03:45:56 +0000"
@@ -1026,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2017-06-09 21:44:45 +0000"
@@ -1050,6 +1132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2017-06-09 22:52:28 +0000"
@@ -1059,6 +1147,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2017-06-09 21:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
     },
     "done": true
   },
@@ -1080,9 +1174,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-10 06:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2017-06-17 15:31:18 +0000"
     },
     "done": true
   },
@@ -1170,6 +1276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2017-06-09 21:44:45 +0000"
@@ -1203,6 +1315,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-10 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2017-06-17 03:47:15 +0000"
     },
     "done": true
   },
@@ -1302,6 +1420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2017-06-17 14:10:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2017-06-10 02:26:22 +0000"
@@ -1317,6 +1441,12 @@
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2017-06-09 21:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2017-06-17 03:07:57 +0000"
     },
     "done": true
   },
@@ -1347,6 +1477,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2017-06-10 03:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
     },
     "done": true
   },
@@ -1492,6 +1628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-06-17 03:07:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2017-06-09 22:11:16 +0000"
@@ -1519,6 +1661,18 @@
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2017-06-11 21:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2017-06-17 03:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2017-06-18 03:59:46 +0000"
     },
     "done": true
   },
@@ -1582,6 +1736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2017-06-17 03:07:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2017-06-10 02:41:06 +0000"
@@ -1627,6 +1787,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2017-06-11 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
     },
     "done": true
   },
@@ -1774,6 +1940,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2017-06-17 03:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2017-06-10 02:24:50 +0000"
@@ -1801,6 +1979,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2017-06-10 03:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2017-06-17 03:47:15 +0000"
     },
     "done": true
   },
