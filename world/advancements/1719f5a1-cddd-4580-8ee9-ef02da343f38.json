@@ -395,9 +395,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2017-06-26 05:01:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2017-06-10 06:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2017-06-25 22:51:10 +0000"
     },
     "done": true
   },
@@ -750,6 +762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2017-06-25 22:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2017-06-10 23:05:14 +0000"
@@ -821,7 +839,8 @@
       "zombie": "2017-06-10 06:38:54 +0000",
       "witch": "2017-06-10 07:22:47 +0000",
       "spider": "2017-06-10 07:21:51 +0000",
-      "creeper": "2017-06-10 06:40:00 +0000"
+      "creeper": "2017-06-10 06:40:00 +0000",
+      "enderman": "2017-06-24 01:36:00 +0000"
     },
     "done": false
   },
@@ -1137,6 +1156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2017-06-25 22:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2017-06-11 07:15:08 +0000"
@@ -1146,6 +1171,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2017-06-10 02:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2017-06-24 22:53:51 +0000"
     },
     "done": true
   },
@@ -1188,6 +1219,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-10 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2017-06-25 22:51:10 +0000"
     },
     "done": true
   },
@@ -1242,6 +1279,18 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2017-06-10 06:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2017-06-25 22:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2017-06-25 22:51:10 +0000"
     },
     "done": true
   },

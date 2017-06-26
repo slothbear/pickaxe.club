@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2017-06-25 20:12:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2017-06-18 19:41:38 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2017-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2017-06-24 16:54:28 +0000"
     },
     "done": true
   },
@@ -270,6 +282,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2017-06-24 19:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2017-06-09 22:32:25 +0000"
@@ -351,9 +369,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2017-06-18 19:11:50 +0000",
+      "spider_eye": "2017-06-25 19:43:40 +0000",
       "potato": "2017-06-19 00:14:46 +0000",
       "cooked_cod": "2017-06-09 22:33:11 +0000",
-      "cookie": "2017-06-10 14:14:07 +0000"
+      "cookie": "2017-06-10 14:14:07 +0000",
+      "raw_cod": "2017-06-25 22:46:07 +0000"
     },
     "done": false
   },
@@ -509,6 +529,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_chicken": "2017-06-24 21:53:28 +0000",
       "bred_sheep": "2017-06-18 19:05:01 +0000",
       "bred_cow": "2017-06-18 19:09:45 +0000",
       "bred_pig": "2017-06-18 19:15:08 +0000"
@@ -623,6 +644,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-17 14:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2017-06-25 21:03:59 +0000"
     },
     "done": true
   },
@@ -845,6 +872,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2017-06-18 19:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2017-06-25 20:13:03 +0000"
     },
     "done": true
   },
@@ -1226,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2017-06-25 20:12:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2017-06-17 01:54:42 +0000"
@@ -1370,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2017-06-24 16:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2017-06-09 22:31:38 +0000"
@@ -1469,6 +1514,7 @@
       "forest_hills": "2017-06-10 01:00:51 +0000",
       "savanna": "2017-06-09 23:08:19 +0000",
       "plains": "2017-06-10 00:55:20 +0000",
+      "savanna_rock": "2017-06-25 21:28:47 +0000",
       "taiga": "2017-06-10 00:58:35 +0000",
       "taiga_hills": "2017-06-10 00:58:39 +0000",
       "ocean": "2017-06-09 22:32:30 +0000",
@@ -1615,6 +1661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2017-06-24 19:23:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2017-06-18 21:35:35 +0000"
@@ -1696,6 +1748,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-17 14:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2017-06-24 16:54:28 +0000"
     },
     "done": true
   },

@@ -199,6 +199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2017-06-23 23:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2017-06-09 20:00:35 +0000"
@@ -452,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2017-06-25 22:40:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2017-06-09 19:22:55 +0000"
@@ -575,6 +587,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2017-06-17 14:08:10 +0000",
+      "shulker": "2017-06-23 23:37:41 +0000",
       "wither_skeleton": "2017-06-17 14:01:32 +0000",
       "zombie_villager": "2017-06-11 04:36:19 +0000",
       "magma_cube": "2017-06-10 01:31:32 +0000",
@@ -1094,6 +1107,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2017-06-23 23:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2017-06-24 00:07:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2017-06-09 18:49:53 +0000"
@@ -1559,6 +1584,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2017-06-23 23:12:58 +0000",
       "cooked_cod": "2017-06-09 18:51:35 +0000"
     },
     "done": false
@@ -1701,6 +1727,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2017-06-09 20:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2017-06-24 15:18:17 +0000"
     },
     "done": true
   },
@@ -1936,6 +1968,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2017-06-09 22:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2017-06-24 21:09:52 +0000"
     },
     "done": true
   },
@@ -2185,6 +2223,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2017-06-23 23:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2017-06-10 02:49:35 +0000"
@@ -2206,6 +2250,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2017-06-09 19:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2017-06-23 23:25:35 +0000"
     },
     "done": true
   },
@@ -2332,6 +2382,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2017-06-10 15:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2017-06-23 23:40:01 +0000"
     },
     "done": true
   },

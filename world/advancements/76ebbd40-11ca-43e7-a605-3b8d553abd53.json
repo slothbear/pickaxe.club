@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2017-06-26 04:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-18 05:10:44 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2017-06-12 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2017-06-23 22:35:20 +0000"
     },
     "done": true
   },
@@ -769,6 +781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2017-06-23 22:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2017-06-18 05:09:10 +0000"
@@ -958,15 +976,29 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2017-06-18 03:02:09 +0000",
+      "skeleton": "2017-06-26 05:37:19 +0000",
       "zombie": "2017-06-12 03:39:57 +0000",
       "spider": "2017-06-18 01:29:36 +0000",
-      "creeper": "2017-06-17 05:52:11 +0000"
+      "creeper": "2017-06-17 05:52:11 +0000",
+      "enderman": "2017-06-26 04:57:40 +0000"
     },
     "done": false
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2017-06-12 03:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2017-06-23 22:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2017-06-26 04:56:31 +0000"
     },
     "done": true
   },
@@ -1054,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2017-06-23 22:23:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2017-06-18 05:11:32 +0000"
@@ -1063,6 +1101,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2017-06-18 05:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2017-06-26 04:56:01 +0000"
     },
     "done": true
   },

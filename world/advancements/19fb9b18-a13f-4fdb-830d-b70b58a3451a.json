@@ -298,6 +298,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2017-06-09 22:16:54 +0000",
+      "potato": "2017-06-25 19:39:52 +0000",
       "carrot": "2017-06-19 15:23:48 +0000"
     },
     "done": false
@@ -608,6 +609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2017-06-24 00:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-10 16:45:24 +0000"
@@ -681,6 +688,7 @@
       "skeleton": "2017-06-09 22:31:27 +0000",
       "zombie": "2017-06-09 22:18:21 +0000",
       "spider": "2017-06-09 22:31:00 +0000",
+      "ghast": "2017-06-24 19:55:44 +0000",
       "creeper": "2017-06-09 22:31:10 +0000",
       "enderman": "2017-06-10 14:03:30 +0000"
     },
@@ -785,6 +793,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2017-06-09 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2017-06-25 19:35:05 +0000"
     },
     "done": true
   },
@@ -926,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2017-06-25 19:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-10 16:48:00 +0000"
@@ -1064,6 +1084,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2017-06-24 00:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2017-06-09 22:11:41 +0000"
@@ -1085,6 +1111,12 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2017-06-09 22:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2017-06-25 19:34:51 +0000"
     },
     "done": true
   },
@@ -1127,6 +1159,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2017-06-10 14:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2017-06-24 14:59:33 +0000"
     },
     "done": true
   },
@@ -1245,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2017-06-25 19:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2017-06-09 22:10:55 +0000"
@@ -1353,6 +1397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2017-06-25 19:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2017-06-10 14:25:05 +0000"
@@ -1386,6 +1436,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2017-06-09 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2017-06-24 00:40:08 +0000"
     },
     "done": true
   },
@@ -1434,6 +1490,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-10 16:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2017-06-24 00:40:08 +0000"
     },
     "done": true
   }
