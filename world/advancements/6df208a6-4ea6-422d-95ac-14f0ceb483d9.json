@@ -795,6 +795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2017-07-01 02:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-10 02:26:24 +0000"
@@ -828,6 +834,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2017-06-09 21:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2017-07-01 02:15:32 +0000"
     },
     "done": true
   },
@@ -1273,6 +1285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2017-07-01 02:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2017-06-10 03:32:41 +0000"
@@ -1426,6 +1444,18 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2017-06-10 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2017-07-01 02:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2017-07-01 02:16:38 +0000"
     },
     "done": true
   },
@@ -1719,6 +1749,12 @@
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2017-06-17 03:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2017-07-01 02:16:38 +0000"
     },
     "done": true
   },

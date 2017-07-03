@@ -558,6 +558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2017-07-03 14:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2017-06-09 22:24:21 +0000"
@@ -837,6 +843,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2017-06-09 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2017-07-03 01:45:39 +0000"
     },
     "done": true
   },
@@ -1812,6 +1824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2017-07-01 22:07:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2017-06-10 14:20:15 +0000"
@@ -2096,6 +2114,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-09 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2017-07-03 16:28:39 +0000"
     },
     "done": true
   },

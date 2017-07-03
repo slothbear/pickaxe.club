@@ -355,6 +355,7 @@
       "cooked_beef": "2017-06-10 06:44:59 +0000",
       "chorus_fruit": "2017-06-10 07:14:41 +0000",
       "cooked_cod": "2017-06-10 00:45:29 +0000",
+      "cooked_chicken": "2017-07-02 00:39:30 +0000",
       "carrot": "2017-06-11 00:27:39 +0000"
     },
     "done": false
@@ -648,6 +649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2017-07-01 01:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2017-06-11 20:12:07 +0000"
@@ -907,6 +914,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2017-06-17 06:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2017-07-01 01:02:58 +0000"
     },
     "done": true
   },
@@ -1426,6 +1439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2017-07-03 05:16:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "blaze": "2017-06-10 00:55:41 +0000"
@@ -1470,6 +1489,7 @@
       "beaches": "2017-06-10 00:50:13 +0000",
       "extreme_hills_with_trees": "2017-06-10 06:50:29 +0000",
       "desert_hills": "2017-06-10 07:17:59 +0000",
+      "mesa": "2017-07-01 02:54:47 +0000",
       "forest_hills": "2017-06-10 02:41:31 +0000",
       "savanna": "2017-06-10 00:44:11 +0000",
       "plains": "2017-06-10 00:39:47 +0000",

@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2017-07-01 13:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2017-06-10 20:57:19 +0000"
@@ -32,6 +38,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2017-06-10 20:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2017-07-01 13:53:45 +0000"
     },
     "done": true
   },
@@ -122,8 +134,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2017-06-10 21:01:45 +0000",
+      "deep_ocean": "2017-07-02 19:16:27 +0000",
+      "beaches": "2017-07-01 18:37:27 +0000",
+      "forest_hills": "2017-07-01 18:12:59 +0000",
       "plains": "2017-06-10 21:01:14 +0000",
-      "river": "2017-06-24 22:18:19 +0000"
+      "savanna": "2017-07-01 18:37:17 +0000",
+      "taiga": "2017-07-01 13:51:41 +0000",
+      "ocean": "2017-07-02 19:16:29 +0000",
+      "river": "2017-06-24 22:18:19 +0000",
+      "desert": "2017-07-02 19:19:43 +0000"
     },
     "done": false
   },
@@ -292,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2017-07-01 13:53:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2017-06-10 21:01:33 +0000"
@@ -319,6 +344,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2017-06-10 21:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2017-07-01 13:57:03 +0000"
     },
     "done": true
   },
@@ -369,6 +400,14 @@
       "has_white_wool": "2017-06-10 20:57:19 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2017-07-01 13:59:19 +0000",
+      "zombie": "2017-07-01 13:53:45 +0000",
+      "creeper": "2017-07-01 13:57:10 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
