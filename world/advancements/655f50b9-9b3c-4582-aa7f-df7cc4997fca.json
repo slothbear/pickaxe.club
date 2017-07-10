@@ -370,6 +370,7 @@
       "cooked_porkchop": "2017-07-01 21:58:27 +0000",
       "cooked_mutton": "2017-07-01 00:42:49 +0000",
       "apple": "2017-07-02 21:51:24 +0000",
+      "spider_eye": "2017-07-08 22:04:59 +0000",
       "cooked_cod": "2017-07-02 19:23:42 +0000",
       "melon": "2017-07-02 19:49:42 +0000",
       "bread": "2017-07-01 01:27:25 +0000",
@@ -416,6 +417,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2017-07-01 00:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2017-07-08 21:54:04 +0000"
     },
     "done": true
   },
@@ -1362,6 +1369,7 @@
       "desert_hills": "2017-07-02 19:49:23 +0000",
       "savanna": "2017-07-01 00:50:32 +0000",
       "plains": "2017-07-01 00:39:33 +0000",
+      "savanna_rock": "2017-07-08 22:19:14 +0000",
       "ocean": "2017-07-01 00:54:09 +0000",
       "river": "2017-07-01 00:51:42 +0000",
       "desert": "2017-07-01 01:26:02 +0000"
@@ -1401,6 +1409,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2017-07-01 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2017-07-08 21:29:15 +0000"
     },
     "done": true
   },

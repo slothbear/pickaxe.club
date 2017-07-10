@@ -869,6 +869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2017-07-10 00:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2017-06-18 19:45:48 +0000"
@@ -1499,6 +1505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2017-07-10 00:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2017-06-10 16:34:12 +0000"
@@ -1511,6 +1523,7 @@
       "birch_forest": "2017-06-10 01:00:20 +0000",
       "deep_ocean": "2017-06-09 22:31:39 +0000",
       "beaches": "2017-06-09 23:08:11 +0000",
+      "extreme_hills_with_trees": "2017-07-10 12:13:13 +0000",
       "forest_hills": "2017-06-10 01:00:51 +0000",
       "savanna": "2017-06-09 23:08:19 +0000",
       "plains": "2017-06-10 00:55:20 +0000",
@@ -1519,6 +1532,7 @@
       "taiga_hills": "2017-06-10 00:58:39 +0000",
       "ocean": "2017-06-09 22:32:30 +0000",
       "extreme_hills": "2017-06-10 00:59:11 +0000",
+      "roofed_forest": "2017-07-10 12:13:21 +0000",
       "river": "2017-06-09 23:08:17 +0000"
     },
     "done": false
@@ -1820,6 +1834,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2017-06-09 22:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2017-07-10 00:29:03 +0000"
     },
     "done": true
   },
