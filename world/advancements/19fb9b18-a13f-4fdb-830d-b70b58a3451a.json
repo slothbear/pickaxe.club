@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 20:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2017-06-10 14:13:17 +0000"
@@ -196,6 +202,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2017-06-09 22:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 20:21:27 +0000"
     },
     "done": true
   },
@@ -274,6 +286,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2017-06-09 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2017-07-16 20:20:50 +0000"
     },
     "done": true
   },
@@ -406,6 +424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2017-07-16 20:36:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-10 16:48:00 +0000"
@@ -463,6 +487,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 14:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 20:21:27 +0000"
     },
     "done": true
   },
@@ -533,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2017-07-16 20:15:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2017-06-11 19:59:46 +0000"
@@ -572,6 +608,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2017-07-08 13:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2017-07-16 20:20:50 +0000"
     },
     "done": true
   },
@@ -635,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2017-07-15 19:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2017-06-09 22:16:54 +0000"
@@ -650,6 +698,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2017-06-09 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 20:21:27 +0000"
     },
     "done": true
   },
@@ -886,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2017-07-15 12:47:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2017-06-18 19:01:25 +0000"
@@ -952,6 +1012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 20:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2017-06-10 14:26:02 +0000"
@@ -985,6 +1051,18 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-09 23:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2017-07-15 12:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 20:21:27 +0000"
     },
     "done": true
   },
@@ -1090,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 20:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
       "has_snowball": "2017-07-08 13:57:45 +0000"
@@ -1144,15 +1228,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2017-07-15 12:47:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-10 16:48:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2017-07-15 19:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2017-06-10 14:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 20:21:27 +0000"
     },
     "done": true
   },
@@ -1177,6 +1279,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2017-06-11 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 20:21:27 +0000"
     },
     "done": true
   },
@@ -1342,6 +1450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 20:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2017-06-09 22:27:59 +0000"
@@ -1442,15 +1556,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2017-07-15 12:47:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2017-06-09 22:31:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2017-07-15 12:47:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2017-06-09 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2017-07-15 19:12:02 +0000"
     },
     "done": true
   },
@@ -1550,6 +1682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2017-07-16 20:13:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2017-06-18 19:01:25 +0000"
@@ -1595,6 +1733,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2017-06-10 14:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2017-07-16 20:21:27 +0000"
     },
     "done": true
   },
@@ -1673,6 +1817,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2017-06-10 14:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2017-07-15 12:47:42 +0000"
     },
     "done": true
   },

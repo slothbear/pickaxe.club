@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2017-07-15 01:20:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 00:48:44 +0000"
@@ -824,6 +830,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2017-06-17 13:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2017-07-15 01:20:39 +0000"
     },
     "done": true
   },
@@ -1533,7 +1545,8 @@
       "ocean": "2017-06-09 22:32:30 +0000",
       "extreme_hills": "2017-06-10 00:59:11 +0000",
       "roofed_forest": "2017-07-10 12:13:21 +0000",
-      "river": "2017-06-09 23:08:17 +0000"
+      "river": "2017-06-09 23:08:17 +0000",
+      "desert": "2017-07-15 00:56:28 +0000"
     },
     "done": false
   },

@@ -271,6 +271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2017-07-16 00:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2017-06-09 19:13:52 +0000"
@@ -280,6 +286,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2017-06-09 18:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2017-07-15 15:42:30 +0000"
     },
     "done": true
   },
@@ -601,12 +613,16 @@
       "zombie_pigman": "2017-06-09 22:56:26 +0000",
       "stray": "2017-06-10 06:18:40 +0000",
       "shulker": "2017-06-09 20:44:47 +0000",
+      "wither_skeleton": "2017-07-15 16:33:15 +0000",
       "zombie_villager": "2017-06-10 06:38:30 +0000",
       "magma_cube": "2017-06-09 22:12:44 +0000",
       "polar_bear": "2017-06-10 06:12:31 +0000",
       "slime": "2017-06-10 05:37:20 +0000",
+      "vindicator": "2017-07-15 15:38:27 +0000",
       "skeleton": "2017-06-09 19:27:20 +0000",
       "husk": "2017-06-10 06:21:05 +0000",
+      "blaze": "2017-07-15 16:35:04 +0000",
+      "evoker": "2017-07-15 15:36:58 +0000",
       "zombie": "2017-06-09 21:39:56 +0000",
       "silverfish": "2017-06-10 14:04:53 +0000",
       "cave_spider": "2017-06-10 21:25:24 +0000",
@@ -617,7 +633,7 @@
       "creeper": "2017-06-09 21:40:21 +0000",
       "enderman": "2017-06-09 20:35:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -664,6 +680,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2017-06-09 19:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2017-07-15 15:42:30 +0000"
     },
     "done": true
   },
@@ -952,6 +974,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2017-06-09 18:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-07-15 15:42:30 +0000"
     },
     "done": true
   },
@@ -1933,6 +1961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2017-07-15 15:42:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2017-06-09 19:28:22 +0000"
@@ -2567,6 +2601,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-06-11 02:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2017-07-15 15:42:30 +0000"
     },
     "done": true
   },
