@@ -252,6 +252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2017-08-01 01:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_the_recipe": "2017-07-23 18:30:59 +0000"
@@ -391,6 +397,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2017-07-23 18:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2017-08-01 00:55:45 +0000"
     },
     "done": true
   },
@@ -589,6 +601,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2017-07-24 01:17:48 +0000",
+      "zombie_villager": "2017-08-01 01:14:46 +0000",
       "skeleton": "2017-07-23 02:23:09 +0000",
       "zombie": "2017-07-23 02:23:03 +0000",
       "witch": "2017-07-23 02:44:27 +0000",
@@ -708,6 +721,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2017-08-01 00:55:45 +0000"
     },
     "done": true
   },
@@ -948,6 +967,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2017-07-23 01:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2017-08-01 01:13:36 +0000"
     },
     "done": true
   },
