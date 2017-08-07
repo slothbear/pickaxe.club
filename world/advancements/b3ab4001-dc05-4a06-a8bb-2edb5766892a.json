@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2017-08-07 16:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2017-07-23 20:32:02 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2017-07-30 22:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2017-08-05 23:36:15 +0000"
     },
     "done": true
   },
@@ -462,6 +474,8 @@
       "cooked_porkchop": "2017-07-23 00:20:47 +0000",
       "cooked_mutton": "2017-08-01 00:47:13 +0000",
       "cooked_beef": "2017-07-23 20:46:36 +0000",
+      "baked_potato": "2017-08-06 00:13:12 +0000",
+      "apple": "2017-08-07 16:47:40 +0000",
       "potato": "2017-07-29 20:25:31 +0000",
       "rotten_flesh": "2017-07-23 20:43:50 +0000",
       "cooked_chicken": "2017-07-23 00:53:13 +0000",
@@ -717,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2017-08-05 23:43:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2017-07-29 22:32:11 +0000"
@@ -861,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2017-08-05 23:50:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2017-07-23 00:20:47 +0000"
@@ -894,6 +920,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2017-08-01 00:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2017-08-07 16:31:23 +0000"
     },
     "done": true
   },
@@ -1033,6 +1065,7 @@
     "criteria": {
       "zombie_pigman": "2017-07-30 00:56:40 +0000",
       "zombie_villager": "2017-07-30 01:33:26 +0000",
+      "slime": "2017-08-05 23:14:27 +0000",
       "skeleton": "2017-07-23 02:14:34 +0000",
       "husk": "2017-07-30 01:31:32 +0000",
       "zombie": "2017-07-23 02:07:12 +0000",
@@ -1380,9 +1413,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2017-08-07 17:30:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2017-07-29 20:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2017-08-07 16:31:23 +0000"
     },
     "done": true
   },
@@ -1518,6 +1563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2017-08-07 17:30:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2017-07-30 01:03:33 +0000"
@@ -1611,6 +1662,12 @@
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_planks": "2017-07-30 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2017-08-07 16:31:23 +0000"
     },
     "done": true
   },
@@ -1827,9 +1884,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2017-08-05 23:36:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2017-07-23 00:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2017-08-07 17:30:29 +0000"
     },
     "done": true
   },
@@ -2007,6 +2076,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2017-08-07 16:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2017-08-05 23:36:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2017-07-29 19:08:58 +0000"
@@ -2040,6 +2121,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2017-07-30 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2017-08-05 23:43:21 +0000"
     },
     "done": true
   },
@@ -2136,6 +2223,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2017-07-29 22:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2017-08-05 23:46:51 +0000"
     },
     "done": true
   },

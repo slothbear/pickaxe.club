@@ -410,11 +410,13 @@
       "porkchop": "2017-07-15 17:08:00 +0000",
       "apple": "2017-07-02 21:51:24 +0000",
       "spider_eye": "2017-07-08 22:04:59 +0000",
+      "potato": "2017-08-07 00:14:19 +0000",
       "cooked_cod": "2017-07-02 19:23:42 +0000",
       "melon": "2017-07-02 19:49:42 +0000",
       "mutton": "2017-07-15 17:18:51 +0000",
       "bread": "2017-07-01 01:27:25 +0000",
-      "rotten_flesh": "2017-07-02 23:24:08 +0000"
+      "rotten_flesh": "2017-07-02 23:24:08 +0000",
+      "cooked_chicken": "2017-08-07 01:20:32 +0000"
     },
     "done": false
   },
@@ -863,7 +865,8 @@
       "husk": "2017-07-01 01:34:38 +0000",
       "zombie": "2017-07-01 01:34:19 +0000",
       "spider": "2017-07-01 15:41:01 +0000",
-      "creeper": "2017-07-02 17:15:51 +0000"
+      "creeper": "2017-07-02 17:15:51 +0000",
+      "enderman": "2017-08-07 01:20:36 +0000"
     },
     "done": false
   },
@@ -975,6 +978,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2017-08-07 00:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2017-07-02 19:25:38 +0000"
@@ -1038,6 +1047,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2017-07-01 01:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2017-08-07 00:56:40 +0000"
     },
     "done": true
   },
@@ -1383,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2017-08-07 01:30:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2017-07-01 00:53:30 +0000"
@@ -1476,6 +1497,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2017-07-01 00:43:06 +0000",
+      "birch_forest": "2017-08-07 00:55:43 +0000",
       "deep_ocean": "2017-07-01 00:56:46 +0000",
       "beaches": "2017-07-01 00:54:01 +0000",
       "desert_hills": "2017-07-02 19:49:23 +0000",
@@ -1661,6 +1683,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2017-07-01 02:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2017-08-07 00:56:40 +0000"
     },
     "done": true
   },
