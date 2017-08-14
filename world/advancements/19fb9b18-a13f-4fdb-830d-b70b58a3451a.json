@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2017-08-13 21:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2017-06-09 22:11:41 +0000"
@@ -397,6 +403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2017-08-14 14:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_the_recipe": "2017-06-10 14:22:55 +0000"
@@ -447,6 +459,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 14:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2017-08-13 22:12:17 +0000"
     },
     "done": true
   },
@@ -729,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2017-08-13 00:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2017-06-19 15:08:51 +0000"
@@ -921,6 +945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2017-08-14 14:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-10 16:48:00 +0000"
@@ -1014,6 +1044,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2017-06-18 18:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2017-08-13 22:12:17 +0000"
     },
     "done": true
   },
@@ -1251,6 +1287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2017-08-13 22:11:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2017-06-18 23:50:46 +0000"
@@ -1389,9 +1431,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2017-08-13 22:11:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-10 16:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2017-08-14 14:12:54 +0000"
     },
     "done": true
   },
@@ -1695,6 +1749,7 @@
       "ocean": "2017-06-09 22:15:06 +0000",
       "extreme_hills": "2017-06-09 22:14:27 +0000",
       "roofed_forest": "2017-07-29 01:24:32 +0000",
+      "cold_beach": "2017-08-13 20:46:38 +0000",
       "river": "2017-06-09 22:10:51 +0000",
       "desert": "2017-07-09 21:20:51 +0000"
     },
@@ -1727,6 +1782,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2017-06-09 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2017-08-13 22:11:01 +0000"
     },
     "done": true
   },
@@ -1835,6 +1896,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-10 16:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2017-08-13 22:12:17 +0000"
     },
     "done": true
   },

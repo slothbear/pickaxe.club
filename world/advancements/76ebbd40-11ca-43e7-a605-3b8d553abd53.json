@@ -297,6 +297,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2017-08-12 20:50:45 +0000",
+      "potato": "2017-08-12 20:22:56 +0000",
       "carrot": "2017-06-12 01:00:04 +0000"
     },
     "done": false
