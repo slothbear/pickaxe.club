@@ -476,6 +476,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2017-09-04 19:31:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2017-06-09 19:22:55 +0000"
@@ -1914,6 +1920,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2017-06-09 22:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2017-09-03 19:05:32 +0000"
     },
     "done": true
   },

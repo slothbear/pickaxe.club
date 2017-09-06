@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2017-09-03 18:43:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 14:27:32 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2017-09-03 19:18:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-06-09 22:11:41 +0000"
@@ -194,6 +206,12 @@
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2017-06-09 22:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2017-09-03 00:58:00 +0000"
     },
     "done": true
   },
@@ -432,6 +450,7 @@
       "cooked_beef": "2017-06-09 22:16:54 +0000",
       "beetroot_soup": "2017-07-31 00:09:59 +0000",
       "potato": "2017-06-25 19:39:52 +0000",
+      "cooked_cod": "2017-09-03 20:07:04 +0000",
       "cooked_chicken": "2017-07-29 23:20:48 +0000",
       "mushroom_stew": "2017-07-09 21:29:04 +0000",
       "carrot": "2017-06-19 15:23:48 +0000"
@@ -477,6 +496,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 14:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2017-09-03 00:58:00 +0000"
     },
     "done": true
   },
@@ -968,6 +993,7 @@
       "blaze": "2017-07-08 13:19:39 +0000",
       "zombie": "2017-06-09 22:18:21 +0000",
       "witch": "2017-07-09 21:22:23 +0000",
+      "guardian": "2017-09-03 19:18:41 +0000",
       "spider": "2017-06-09 22:31:00 +0000",
       "ghast": "2017-06-24 19:55:44 +0000",
       "creeper": "2017-06-09 22:31:10 +0000",
@@ -1266,6 +1292,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-10 16:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2017-09-03 18:15:05 +0000"
     },
     "done": true
   },
@@ -1629,6 +1661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2017-09-03 19:18:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2017-06-12 13:15:11 +0000"
@@ -1770,6 +1808,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2017-06-18 18:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2017-09-03 18:43:56 +0000"
     },
     "done": true
   },
@@ -1959,6 +2003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2017-09-03 18:43:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2017-06-19 00:50:23 +0000"
@@ -2007,6 +2057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2017-09-03 00:58:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2017-06-09 22:33:00 +0000"
@@ -2022,6 +2078,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-10 16:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2017-09-03 19:18:42 +0000"
     },
     "done": true
   },
