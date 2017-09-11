@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2017-09-09 01:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-07-23 13:59:35 +0000"
@@ -300,7 +306,8 @@
       "cooked_cod": "2017-07-23 02:53:12 +0000",
       "cookie": "2017-07-23 14:45:53 +0000",
       "raw_cod": "2017-07-23 02:22:57 +0000",
-      "cooked_chicken": "2017-07-23 14:29:14 +0000"
+      "cooked_chicken": "2017-07-23 14:29:14 +0000",
+      "cooked_salmon": "2017-09-09 02:16:38 +0000"
     },
     "done": false
   },
@@ -647,6 +654,7 @@
       "skeleton": "2017-07-23 02:23:09 +0000",
       "zombie": "2017-07-23 02:23:03 +0000",
       "witch": "2017-07-23 02:44:27 +0000",
+      "spider": "2017-09-09 02:35:57 +0000",
       "creeper": "2017-07-23 22:30:35 +0000",
       "enderman": "2017-07-23 02:22:49 +0000"
     },
@@ -793,6 +801,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2017-09-09 02:23:54 +0000"
     },
     "done": true
   },
@@ -1081,8 +1095,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2017-07-23 01:20:40 +0000",
+      "birch_forest": "2017-09-09 01:38:56 +0000",
       "deep_ocean": "2017-07-23 01:29:05 +0000",
       "beaches": "2017-07-23 01:28:27 +0000",
+      "extreme_hills_with_trees": "2017-09-09 01:38:37 +0000",
       "desert_hills": "2017-07-23 14:56:00 +0000",
       "forest_hills": "2017-07-23 13:44:18 +0000",
       "savanna": "2017-07-23 01:28:00 +0000",
@@ -1090,6 +1106,7 @@
       "savanna_rock": "2017-07-23 14:53:58 +0000",
       "taiga": "2017-07-23 13:43:43 +0000",
       "taiga_hills": "2017-07-23 13:43:49 +0000",
+      "birch_forest_hills": "2017-09-09 01:40:57 +0000",
       "ocean": "2017-07-23 01:28:46 +0000",
       "extreme_hills": "2017-07-23 13:44:11 +0000",
       "river": "2017-07-23 01:28:28 +0000",
@@ -1211,6 +1228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2017-09-09 01:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:47:13 +0000"
@@ -1226,6 +1249,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2017-08-12 14:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2017-09-09 01:49:21 +0000"
     },
     "done": true
   },

@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2017-09-11 06:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2017-06-18 06:15:38 +0000"
@@ -122,6 +128,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-06-12 01:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2017-09-11 06:29:43 +0000"
     },
     "done": true
   },
@@ -172,6 +184,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2017-06-12 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2017-09-11 06:29:43 +0000"
     },
     "done": true
   },
@@ -299,6 +317,7 @@
     "criteria": {
       "baked_potato": "2017-08-12 20:50:45 +0000",
       "potato": "2017-08-12 20:22:56 +0000",
+      "cooked_cod": "2017-09-09 01:44:57 +0000",
       "carrot": "2017-06-12 01:00:04 +0000"
     },
     "done": false
@@ -393,6 +412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2017-09-11 06:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-17 06:11:47 +0000"
@@ -456,6 +481,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2017-06-18 05:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2017-09-11 06:29:43 +0000"
     },
     "done": true
   },
@@ -564,6 +595,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2017-06-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2017-09-11 06:29:43 +0000"
     },
     "done": true
   },
@@ -777,6 +814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2017-09-11 06:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-12 01:10:47 +0000"
@@ -786,6 +829,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2017-07-01 21:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2017-09-11 06:29:43 +0000"
     },
     "done": true
   },
@@ -816,6 +865,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-18 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2017-09-11 06:29:43 +0000"
     },
     "done": true
   },
@@ -927,6 +982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2017-09-11 06:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2017-06-12 01:03:12 +0000"
@@ -993,6 +1054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2017-09-11 06:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2017-06-18 05:11:32 +0000"
@@ -1008,6 +1075,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2017-06-18 06:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2017-09-11 06:29:43 +0000"
     },
     "done": true
   },
@@ -1149,6 +1222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2017-09-11 06:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2017-08-05 21:21:05 +0000"
@@ -1186,6 +1265,7 @@
       "mesa_rock": "2017-07-15 22:13:21 +0000",
       "mushroom_island_shore": "2017-07-01 23:39:02 +0000",
       "birch_forest": "2017-07-01 23:01:45 +0000",
+      "swampland": "2017-09-09 01:46:38 +0000",
       "deep_ocean": "2017-06-12 00:59:20 +0000",
       "beaches": "2017-06-12 00:59:49 +0000",
       "extreme_hills_with_trees": "2017-06-12 00:59:39 +0000",
@@ -1199,9 +1279,11 @@
       "taiga": "2017-06-12 00:59:51 +0000",
       "taiga_hills": "2017-06-12 01:00:50 +0000",
       "mushroom_island": "2017-07-01 23:39:03 +0000",
+      "birch_forest_hills": "2017-09-09 01:49:51 +0000",
       "taiga_cold": "2017-06-12 00:58:37 +0000",
       "ocean": "2017-06-12 00:59:23 +0000",
       "extreme_hills": "2017-06-12 00:59:37 +0000",
+      "roofed_forest": "2017-09-09 01:46:29 +0000",
       "cold_beach": "2017-06-12 00:59:19 +0000",
       "river": "2017-06-12 00:58:25 +0000",
       "desert": "2017-06-19 04:55:32 +0000",
@@ -1353,6 +1435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2017-09-11 06:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2017-06-18 01:53:16 +0000"
@@ -1383,6 +1471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2017-09-11 06:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2017-06-12 03:36:39 +0000"
@@ -1410,6 +1504,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2017-07-02 06:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2017-09-11 06:29:43 +0000"
     },
     "done": true
   },
