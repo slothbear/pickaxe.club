@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2017-09-17 00:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2017-06-09 20:54:53 +0000"
@@ -437,6 +443,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2017-07-16 03:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2017-09-17 20:22:40 +0000"
     },
     "done": true
   },
@@ -2147,6 +2159,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2017-06-09 21:00:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2017-09-17 20:24:47 +0000"
     },
     "done": true
   },

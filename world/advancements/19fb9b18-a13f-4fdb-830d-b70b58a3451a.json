@@ -863,6 +863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2017-09-17 20:47:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-09 23:03:16 +0000"
@@ -896,6 +902,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2017-06-09 22:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2017-09-17 20:56:19 +0000"
     },
     "done": true
   },
@@ -1038,6 +1050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2017-09-17 20:47:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2017-06-10 14:14:12 +0000"
@@ -1125,6 +1143,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2017-06-09 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2017-09-17 20:47:29 +0000"
     },
     "done": true
   },
@@ -1374,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2017-09-17 20:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2017-07-29 13:49:42 +0000"
@@ -1542,9 +1572,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2017-09-17 20:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2017-06-18 23:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2017-09-17 20:47:22 +0000"
     },
     "done": true
   },
@@ -1854,6 +1896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2017-09-17 20:47:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2017-06-09 22:31:47 +0000"
@@ -2013,6 +2061,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2017-06-19 00:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2017-09-17 20:47:29 +0000"
     },
     "done": true
   },

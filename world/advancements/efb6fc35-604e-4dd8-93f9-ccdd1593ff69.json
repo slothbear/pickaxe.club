@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2017-09-16 15:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2017-06-18 02:26:18 +0000"
@@ -468,6 +474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2017-09-16 15:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2017-06-18 01:50:45 +0000"
@@ -640,6 +652,7 @@
     "criteria": {
       "zombie_pigman": "2017-06-09 19:30:12 +0000",
       "wither_skeleton": "2017-06-24 00:39:41 +0000",
+      "zombie_villager": "2017-09-16 20:00:15 +0000",
       "slime": "2017-06-11 00:54:14 +0000",
       "skeleton": "2017-06-24 00:39:42 +0000",
       "blaze": "2017-06-24 00:39:52 +0000",
@@ -870,6 +883,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2017-08-04 17:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2017-09-16 14:36:57 +0000"
     },
     "done": true
   },
@@ -1798,6 +1817,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_sheep": "2017-09-16 15:39:57 +0000",
       "bred_cow": "2017-06-09 22:33:53 +0000",
       "bred_pig": "2017-06-09 22:34:13 +0000"
     },

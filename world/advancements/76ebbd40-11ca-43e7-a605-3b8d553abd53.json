@@ -65,6 +65,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2017-09-17 05:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2017-09-16 20:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-17 06:11:47 +0000"
@@ -664,6 +676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2017-09-17 22:45:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2017-06-18 05:10:44 +0000"
@@ -964,6 +982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2017-09-17 22:45:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2017-06-12 03:43:01 +0000"
@@ -985,6 +1009,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2017-09-11 06:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2017-09-16 20:45:51 +0000"
     },
     "done": true
   },
@@ -1087,6 +1117,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2017-08-05 21:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2017-09-17 22:45:15 +0000"
     },
     "done": true
   },
@@ -1261,6 +1297,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2017-06-12 00:56:34 +0000",
+      "taiga_cold_hills": "2017-09-17 22:47:52 +0000",
       "forest": "2017-06-12 01:00:08 +0000",
       "mesa_rock": "2017-07-15 22:13:21 +0000",
       "mushroom_island_shore": "2017-07-01 23:39:02 +0000",
