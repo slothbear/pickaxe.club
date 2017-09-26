@@ -47,12 +47,6 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2017-07-29 22:19:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2017-07-29 22:18:16 +0000"
@@ -65,18 +59,24 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:nether/root": {
     "criteria": {
-      "forest": "2017-07-29 22:23:09 +0000",
-      "plains": "2017-07-29 22:21:49 +0000"
+      "entered_nether": "2017-07-29 22:19:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2017-07-29 22:18:16 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2017-07-29 22:23:09 +0000",
+      "plains": "2017-07-29 22:21:49 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
@@ -87,6 +87,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2017-07-29 22:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2017-09-23 01:12:27 +0000"
     },
     "done": true
   },
@@ -260,6 +266,12 @@
       "has_iron_ingot": "2017-07-29 22:18:16 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2017-09-23 01:12:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
