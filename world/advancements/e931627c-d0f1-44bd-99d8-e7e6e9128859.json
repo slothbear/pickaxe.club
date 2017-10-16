@@ -442,6 +442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_the_recipe": "2017-10-15 01:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2017-10-07 17:01:18 +0000"
@@ -589,6 +595,15 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2017-10-02 07:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2017-10-14 19:23:11 +0000",
+      "iron_chestplate": "2017-10-14 19:23:11 +0000",
+      "iron_leggings": "2017-10-14 19:23:11 +0000",
+      "iron_helmet": "2017-10-14 19:23:11 +0000"
     },
     "done": true
   },
@@ -887,6 +902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2017-10-15 01:27:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2017-09-30 16:04:24 +0000"
@@ -914,6 +935,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2017-10-02 07:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2017-10-15 01:27:27 +0000"
     },
     "done": true
   },

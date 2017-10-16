@@ -430,6 +430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2017-10-13 22:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2017-07-01 02:27:59 +0000"
@@ -544,6 +550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2017-10-13 22:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2017-07-01 00:44:37 +0000"
@@ -559,6 +571,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2017-07-08 22:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2017-10-13 22:50:10 +0000"
     },
     "done": true
   },
@@ -790,6 +808,7 @@
       "husk": "2017-07-01 01:43:02 +0000",
       "zombie": "2017-07-01 01:40:21 +0000",
       "witch": "2017-07-08 22:04:26 +0000",
+      "spider": "2017-10-13 22:45:41 +0000",
       "creeper": "2017-07-01 01:41:05 +0000",
       "enderman": "2017-08-07 01:22:30 +0000"
     },
@@ -981,6 +1000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2017-10-13 22:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2017-07-01 02:28:00 +0000"
@@ -990,6 +1015,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2017-07-08 22:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2017-10-13 22:37:31 +0000"
     },
     "done": true
   },
@@ -1137,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2017-10-13 22:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2017-07-01 02:26:36 +0000"
@@ -1206,6 +1243,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2017-07-01 02:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2017-10-13 22:50:10 +0000"
     },
     "done": true
   },

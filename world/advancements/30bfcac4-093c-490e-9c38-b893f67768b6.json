@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2017-10-15 23:15:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2017-06-17 00:37:54 +0000"
@@ -122,6 +128,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2017-06-17 03:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2017-10-16 02:54:07 +0000"
     },
     "done": true
   },
@@ -1105,6 +1117,7 @@
       "plains": "2017-06-09 23:24:43 +0000",
       "savanna": "2017-06-17 01:09:57 +0000",
       "jungle_edge": "2017-06-17 00:37:18 +0000",
+      "jungle_hills": "2017-10-15 23:14:18 +0000",
       "savanna_rock": "2017-06-17 01:09:58 +0000",
       "ice_mountains": "2017-06-18 02:04:56 +0000",
       "taiga": "2017-06-09 23:29:29 +0000",
@@ -1594,6 +1607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2017-10-15 20:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2017-06-17 03:30:56 +0000"
@@ -1646,6 +1665,12 @@
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2017-06-18 18:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2017-10-16 02:54:07 +0000"
     },
     "done": true
   },
