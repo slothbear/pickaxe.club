@@ -1009,6 +1009,7 @@
       "forest": "2017-06-09 22:09:55 +0000",
       "mesa_rock": "2017-10-15 20:55:51 +0000",
       "birch_forest": "2017-06-10 13:56:48 +0000",
+      "swampland": "2017-10-22 20:03:28 +0000",
       "deep_ocean": "2017-06-09 22:17:12 +0000",
       "beaches": "2017-06-09 22:15:04 +0000",
       "extreme_hills_with_trees": "2017-06-11 20:00:12 +0000",
@@ -1193,6 +1194,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2017-09-03 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2017-10-22 19:24:06 +0000"
     },
     "done": true
   },

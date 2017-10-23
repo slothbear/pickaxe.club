@@ -5,6 +5,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:47:13 +0000"
@@ -53,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2017-10-21 13:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:47:13 +0000"
@@ -74,6 +92,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2017-07-23 18:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -119,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2017-07-23 13:59:35 +0000"
@@ -140,6 +170,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_the_recipe": "2017-07-23 23:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -186,6 +222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2017-07-23 01:20:19 +0000"
@@ -195,6 +237,18 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2017-07-23 17:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -353,6 +407,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2017-10-21 01:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2017-07-23 16:01:14 +0000"
@@ -380,6 +446,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2017-09-05 01:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2017-10-21 13:27:22 +0000"
     },
     "done": true
   },
@@ -413,9 +485,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2017-07-23 16:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -430,6 +514,12 @@
       "has_planks": "2017-09-03 18:23:27 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_sheep": "2017-10-21 13:26:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -497,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2017-07-23 02:23:22 +0000"
@@ -509,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2017-07-23 15:17:48 +0000"
@@ -518,6 +620,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -575,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2017-10-21 01:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2017-07-23 14:28:17 +0000"
@@ -605,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2017-07-23 02:22:49 +0000"
@@ -614,6 +734,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-23 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2017-10-21 13:36:03 +0000"
     },
     "done": true
   },
@@ -644,6 +770,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2017-07-23 17:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -690,6 +822,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2017-07-23 15:18:01 +0000"
@@ -708,9 +852,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-07-23 17:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -744,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-23 02:23:22 +0000"
@@ -765,6 +927,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2017-07-23 14:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -834,9 +1002,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_red_dye": "2017-10-21 01:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -855,6 +1041,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2017-07-23 17:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -894,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:47:13 +0000"
@@ -918,6 +1116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2017-07-23 16:01:06 +0000"
@@ -933,6 +1137,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-23 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -966,6 +1176,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2017-10-21 13:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2017-10-21 01:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2017-07-23 01:20:19 +0000"
@@ -981,6 +1203,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_the_recipe": "2017-07-23 18:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-10-21 13:36:03 +0000"
     },
     "done": true
   },
@@ -1080,6 +1308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2017-10-21 01:58:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "enderman": "2017-07-23 02:22:49 +0000"
@@ -1150,6 +1384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2017-10-21 01:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2017-07-23 01:20:19 +0000"
@@ -1174,9 +1414,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2017-07-23 01:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2017-10-21 01:47:58 +0000"
     },
     "done": true
   },
@@ -1207,6 +1459,18 @@
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2017-07-23 17:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2017-10-21 13:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -1246,6 +1510,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2017-10-21 13:36:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2017-08-12 14:16:36 +0000"
@@ -1255,6 +1531,18 @@
   "minecraft:recipes/building_blocks/lit_pumpkin": {
     "criteria": {
       "has_pumpkin": "2017-09-09 01:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2017-10-21 13:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_sheep": "2017-10-21 13:26:12 +0000"
     },
     "done": true
   },
@@ -1291,6 +1579,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-07-23 17:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
@@ -1348,6 +1642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2017-10-21 01:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2017-07-23 18:31:10 +0000"
@@ -1369,6 +1669,18 @@
   "minecraft:recipes/building_blocks/chiseled_stonebrick": {
     "criteria": {
       "has_stonebrick": "2017-07-23 14:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2017-10-21 01:58:26 +0000"
     },
     "done": true
   },
