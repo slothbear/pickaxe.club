@@ -277,6 +277,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2017-11-12 01:41:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2017-06-18 06:09:20 +0000"
@@ -310,6 +316,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-18 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2017-11-12 01:55:07 +0000"
     },
     "done": true
   },
@@ -553,6 +565,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2017-06-18 05:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2017-11-12 01:57:00 +0000"
     },
     "done": true
   },
@@ -995,6 +1013,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2017-11-11 21:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-18 05:10:44 +0000"
@@ -1010,6 +1034,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2017-06-18 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2017-11-11 21:52:40 +0000"
     },
     "done": true
   },
@@ -1389,6 +1419,7 @@
     "criteria": {
       "ice_flats": "2017-06-12 00:56:34 +0000",
       "taiga_cold_hills": "2017-09-17 22:47:52 +0000",
+      "frozen_river": "2017-11-12 07:47:57 +0000",
       "forest": "2017-06-12 01:00:08 +0000",
       "mesa_rock": "2017-07-15 22:13:21 +0000",
       "mushroom_island_shore": "2017-07-01 23:39:02 +0000",

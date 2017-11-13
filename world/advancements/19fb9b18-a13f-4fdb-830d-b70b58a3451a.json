@@ -325,6 +325,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2017-11-11 02:14:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2017-06-10 14:25:57 +0000"
@@ -1543,7 +1549,9 @@
       "apple": "2017-11-04 19:31:23 +0000",
       "potato": "2017-06-25 19:39:52 +0000",
       "cooked_cod": "2017-09-03 20:07:04 +0000",
+      "poisonous_potato": "2017-11-11 17:57:11 +0000",
       "bread": "2017-09-10 20:31:03 +0000",
+      "rotten_flesh": "2017-11-11 18:10:19 +0000",
       "cooked_chicken": "2017-07-29 23:20:48 +0000",
       "mushroom_stew": "2017-07-09 21:29:04 +0000",
       "carrot": "2017-06-19 15:23:48 +0000"
