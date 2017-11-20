@@ -1587,13 +1587,17 @@
       "forest_hills": "2017-06-10 01:00:51 +0000",
       "savanna": "2017-06-09 23:08:19 +0000",
       "plains": "2017-06-10 00:55:20 +0000",
+      "jungle_hills": "2017-11-18 23:01:16 +0000",
+      "jungle_edge": "2017-11-18 22:40:39 +0000",
       "savanna_rock": "2017-06-25 21:28:47 +0000",
       "taiga": "2017-06-10 00:58:35 +0000",
       "taiga_hills": "2017-06-10 00:58:39 +0000",
+      "birch_forest_hills": "2017-11-18 22:39:24 +0000",
       "ocean": "2017-06-09 22:32:30 +0000",
       "extreme_hills": "2017-06-10 00:59:11 +0000",
       "roofed_forest": "2017-07-10 12:13:21 +0000",
       "river": "2017-06-09 23:08:17 +0000",
+      "jungle": "2017-11-18 22:59:57 +0000",
       "desert": "2017-07-15 00:56:28 +0000"
     },
     "done": false
@@ -1853,6 +1857,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2017-06-24 16:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2017-11-18 23:00:31 +0000"
     },
     "done": true
   },

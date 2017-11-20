@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2017-11-18 23:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2017-06-17 14:24:22 +0000"
@@ -922,6 +928,7 @@
     "criteria": {
       "zombie_pigman": "2017-06-18 18:52:08 +0000",
       "zombie_villager": "2017-06-23 23:26:47 +0000",
+      "magma_cube": "2017-11-18 22:39:19 +0000",
       "slime": "2017-06-10 18:22:45 +0000",
       "skeleton": "2017-06-11 19:46:05 +0000",
       "husk": "2017-06-19 01:05:22 +0000",
@@ -1625,6 +1632,8 @@
       "forest_hills": "2017-06-19 00:43:36 +0000",
       "plains": "2017-06-17 01:33:14 +0000",
       "savanna": "2017-06-19 01:07:19 +0000",
+      "jungle_hills": "2017-11-18 22:51:09 +0000",
+      "jungle_edge": "2017-11-18 22:46:39 +0000",
       "savanna_rock": "2017-06-24 00:55:59 +0000",
       "taiga": "2017-06-17 15:12:11 +0000",
       "taiga_hills": "2017-06-17 15:12:18 +0000",
@@ -1632,6 +1641,7 @@
       "ocean": "2017-06-10 18:17:07 +0000",
       "extreme_hills": "2017-06-17 15:12:24 +0000",
       "river": "2017-06-10 18:28:21 +0000",
+      "jungle": "2017-11-18 22:47:58 +0000",
       "desert": "2017-06-19 01:01:09 +0000"
     },
     "done": false
@@ -1783,6 +1793,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2017-06-17 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2017-11-18 23:36:20 +0000"
     },
     "done": true
   },
