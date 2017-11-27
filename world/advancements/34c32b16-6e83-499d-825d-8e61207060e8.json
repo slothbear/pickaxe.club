@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2017-11-23 13:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2017-06-24 16:54:28 +0000"
@@ -330,6 +336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2017-11-23 13:57:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2017-06-17 01:22:21 +0000"
@@ -378,8 +390,11 @@
       "spider_eye": "2017-06-25 19:43:40 +0000",
       "potato": "2017-06-19 00:14:46 +0000",
       "cooked_cod": "2017-06-09 22:33:11 +0000",
+      "poisonous_potato": "2017-11-24 19:17:06 +0000",
+      "pumpkin_pie": "2017-11-27 15:05:06 +0000",
       "cookie": "2017-06-10 14:14:07 +0000",
-      "raw_cod": "2017-06-25 22:46:07 +0000"
+      "raw_cod": "2017-06-25 22:46:07 +0000",
+      "carrot": "2017-11-24 18:01:58 +0000"
     },
     "done": false
   },
@@ -524,6 +539,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2017-06-17 14:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2017-11-23 13:57:13 +0000"
     },
     "done": true
   },
@@ -863,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2017-11-25 16:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-17 14:31:53 +0000"
@@ -956,6 +983,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2017-06-18 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2017-11-25 15:40:56 +0000"
     },
     "done": true
   },
@@ -1175,6 +1208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2017-11-25 16:30:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2017-06-10 00:48:44 +0000"
@@ -1223,9 +1262,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2017-11-23 15:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-17 14:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2017-11-23 16:20:58 +0000"
     },
     "done": true
   },
@@ -1334,6 +1385,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2017-06-09 22:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2017-11-25 16:05:55 +0000"
     },
     "done": true
   },
@@ -1758,6 +1815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2017-11-23 13:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2017-06-18 21:35:35 +0000"
@@ -1785,6 +1848,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2017-06-10 00:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2017-11-23 13:53:54 +0000"
     },
     "done": true
   },

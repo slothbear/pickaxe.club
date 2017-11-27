@@ -1256,6 +1256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2017-11-24 23:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2017-11-20 07:28:49 +0000"
@@ -2164,6 +2170,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2017-09-30 15:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2017-11-24 01:39:28 +0000"
     },
     "done": true
   },

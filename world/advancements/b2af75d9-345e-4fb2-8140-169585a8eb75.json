@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2017-11-26 09:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2017-10-01 20:09:15 +0000"
@@ -101,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2017-11-26 09:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stonebrick": {
     "criteria": {
       "has_mossy_cobblestone": "2017-10-01 20:09:15 +0000"
@@ -119,15 +131,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2017-11-25 21:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2017-10-01 20:09:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2017-11-26 09:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2017-11-25 21:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2017-10-14 16:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2017-11-26 09:05:32 +0000"
     },
     "done": true
   },
@@ -332,6 +368,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2017-11-26 09:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2017-11-25 21:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2017-11-25 21:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2017-10-14 04:35:05 +0000"
@@ -384,6 +438,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2017-10-14 04:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2017-11-26 09:05:32 +0000"
     },
     "done": true
   },
@@ -447,6 +507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2017-11-25 21:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2017-10-01 20:09:15 +0000"
@@ -477,6 +543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2017-11-26 09:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2017-10-14 04:35:05 +0000"
@@ -489,9 +561,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2017-11-25 21:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2017-10-01 20:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2017-11-26 09:09:19 +0000"
     },
     "done": true
   },
@@ -510,6 +594,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2017-10-01 20:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2017-11-25 21:03:50 +0000"
     },
     "done": true
   },
@@ -637,6 +727,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2017-10-14 04:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2017-11-25 21:03:50 +0000"
     },
     "done": true
   },
@@ -772,9 +868,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2017-11-25 21:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2017-10-14 04:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2017-11-26 09:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2017-11-26 09:08:35 +0000"
     },
     "done": true
   },
@@ -787,6 +901,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2017-10-14 04:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2017-11-25 21:13:08 +0000"
     },
     "done": true
   },
@@ -810,7 +930,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2017-11-25 21:10:40 +0000",
       "husk": "2017-10-14 04:41:59 +0000",
+      "zombie": "2017-11-26 09:18:50 +0000",
       "creeper": "2017-10-14 16:07:51 +0000",
       "enderman": "2017-11-12 01:03:42 +0000"
     },
@@ -834,9 +956,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2017-11-26 09:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2017-10-01 20:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2017-11-25 21:03:50 +0000"
     },
     "done": true
   },
@@ -852,9 +986,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2017-11-25 21:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2017-10-01 20:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2017-11-26 09:05:32 +0000"
     },
     "done": true
   },
