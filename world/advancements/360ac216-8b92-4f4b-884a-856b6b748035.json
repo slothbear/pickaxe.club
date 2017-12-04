@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2017-12-03 16:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2017-06-24 08:26:46 +0000"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2017-12-03 17:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_pink_dye": "2017-06-24 08:38:08 +0000"
@@ -62,6 +74,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-24 08:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2017-12-03 16:58:51 +0000"
     },
     "done": true
   },
@@ -95,6 +113,12 @@
       "diamond_helmet": "2017-06-24 08:26:46 +0000",
       "diamond_chestplate": "2017-06-24 08:26:46 +0000",
       "diamond_boots": "2017-06-24 08:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2017-12-03 17:19:50 +0000"
     },
     "done": true
   },
@@ -149,6 +173,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2017-06-24 08:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2017-12-03 16:24:17 +0000"
     },
     "done": true
   },
@@ -242,6 +272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2017-12-03 17:08:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2017-06-24 16:10:09 +0000"
@@ -251,6 +287,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2017-06-24 08:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2017-12-03 16:24:17 +0000"
     },
     "done": true
   },
@@ -380,6 +422,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2017-12-03 16:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2017-06-24 08:26:46 +0000"
@@ -404,6 +452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2017-12-03 16:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2017-06-24 08:26:46 +0000"
@@ -420,6 +474,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2017-12-03 17:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2017-06-24 08:26:46 +0000"
@@ -435,6 +495,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2017-06-24 08:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2017-12-03 16:43:06 +0000"
     },
     "done": true
   },
@@ -522,6 +588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2017-12-03 16:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2017-06-24 08:39:35 +0000"
@@ -558,6 +630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2017-12-03 16:58:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2017-06-24 17:19:57 +0000"
@@ -578,6 +656,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2017-12-03 16:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2017-12-03 17:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2017-06-24 16:10:09 +0000"
@@ -587,6 +677,18 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2017-06-24 08:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2017-12-03 17:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2017-12-03 16:32:49 +0000"
     },
     "done": true
   },

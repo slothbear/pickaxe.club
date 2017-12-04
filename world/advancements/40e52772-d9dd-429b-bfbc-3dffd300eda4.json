@@ -390,7 +390,8 @@
       "cooked_mutton": "2017-07-01 02:36:45 +0000",
       "cooked_cod": "2017-07-01 01:24:54 +0000",
       "melon": "2017-08-07 01:08:44 +0000",
-      "bread": "2017-07-01 01:15:25 +0000"
+      "bread": "2017-07-01 01:15:25 +0000",
+      "cookie": "2017-12-02 21:49:39 +0000"
     },
     "done": false
   },
@@ -1537,6 +1538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2017-12-02 21:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2017-07-01 00:44:37 +0000"
@@ -1636,6 +1643,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-07-01 01:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2017-12-02 21:16:39 +0000"
     },
     "done": true
   },
