@@ -593,11 +593,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "shulker": "2017-06-09 20:42:18 +0000",
+      "wither_skeleton": "2017-12-09 01:31:23 +0000",
       "zombie_villager": "2017-06-11 17:30:31 +0000",
+      "magma_cube": "2017-12-09 01:26:07 +0000",
       "slime": "2017-06-10 17:04:33 +0000",
       "vindicator": "2017-07-15 15:51:36 +0000",
       "skeleton": "2017-06-10 16:34:39 +0000",
       "husk": "2017-06-10 18:24:35 +0000",
+      "blaze": "2017-12-09 01:26:00 +0000",
       "evoker": "2017-07-15 15:51:50 +0000",
       "zombie": "2017-06-10 03:59:33 +0000",
       "cave_spider": "2017-06-17 19:57:50 +0000",
@@ -2177,6 +2180,12 @@
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2017-06-09 20:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2017-12-09 01:33:32 +0000"
     },
     "done": true
   },

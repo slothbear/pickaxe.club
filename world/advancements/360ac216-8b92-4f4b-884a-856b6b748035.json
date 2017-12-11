@@ -182,6 +182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2017-12-10 10:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2017-06-24 08:26:46 +0000"
@@ -362,6 +368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2017-12-10 10:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-24 08:26:46 +0000"
@@ -437,6 +449,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2017-06-24 16:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2017-12-10 10:11:36 +0000"
     },
     "done": true
   },

@@ -1711,7 +1711,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2017-06-09 19:32:23 +0000"
+      "baked_potato": "2017-06-09 19:32:23 +0000",
+      "cookie": "2017-12-08 21:18:30 +0000"
     },
     "done": false
   },
@@ -2254,6 +2255,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2017-06-18 00:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2017-12-09 15:05:20 +0000"
     },
     "done": true
   },
