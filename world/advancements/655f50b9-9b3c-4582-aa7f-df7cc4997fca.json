@@ -406,6 +406,7 @@
       "cooked_porkchop": "2017-07-01 21:58:27 +0000",
       "chicken": "2017-07-15 17:05:55 +0000",
       "cooked_mutton": "2017-07-01 00:42:49 +0000",
+      "cooked_beef": "2017-12-16 01:38:02 +0000",
       "beef": "2017-07-15 17:18:47 +0000",
       "porkchop": "2017-07-15 17:08:00 +0000",
       "apple": "2017-07-02 21:51:24 +0000",
@@ -1503,6 +1504,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2017-07-01 02:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2017-12-16 01:52:23 +0000"
     },
     "done": true
   },
