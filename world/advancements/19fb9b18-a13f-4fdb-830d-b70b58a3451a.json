@@ -1569,6 +1569,7 @@
       "rotten_flesh": "2017-11-11 18:10:19 +0000",
       "cookie": "2017-11-27 14:14:29 +0000",
       "raw_cod": "2017-11-26 23:11:42 +0000",
+      "golden_carrot": "2017-12-31 18:51:46 +0000",
       "cooked_chicken": "2017-07-29 23:20:48 +0000",
       "mushroom_stew": "2017-07-09 21:29:04 +0000",
       "carrot": "2017-06-19 15:23:48 +0000"
@@ -2290,6 +2291,12 @@
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2017-07-15 19:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2017-12-31 19:33:30 +0000"
     },
     "done": true
   },

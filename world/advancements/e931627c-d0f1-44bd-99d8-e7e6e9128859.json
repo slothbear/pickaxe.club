@@ -206,6 +206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2017-12-25 06:31:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2017-07-22 00:38:56 +0000"
@@ -515,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2017-12-26 07:35:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2017-07-21 22:36:44 +0000"
@@ -576,11 +588,13 @@
       "wither_skeleton": "2017-11-20 04:01:24 +0000",
       "zombie_villager": "2017-07-21 23:52:26 +0000",
       "magma_cube": "2017-11-05 07:03:25 +0000",
+      "slime": "2017-12-26 10:03:55 +0000",
       "skeleton": "2017-07-21 23:50:01 +0000",
       "husk": "2017-10-02 08:32:40 +0000",
       "blaze": "2017-11-20 03:57:40 +0000",
       "zombie": "2017-07-21 23:16:40 +0000",
       "cave_spider": "2017-10-07 16:05:40 +0000",
+      "silverfish": "2017-12-26 10:10:53 +0000",
       "witch": "2017-09-30 16:13:45 +0000",
       "guardian": "2017-07-22 04:12:27 +0000",
       "spider": "2017-07-21 23:51:48 +0000",
@@ -830,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2017-12-26 07:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2017-09-30 15:46:26 +0000"
@@ -881,6 +901,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2017-10-07 18:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2017-12-26 07:35:37 +0000"
     },
     "done": true
   },
@@ -1070,6 +1096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2017-12-25 06:31:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2017-11-05 22:56:25 +0000"
@@ -1091,6 +1123,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2017-07-21 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2017-12-26 07:32:10 +0000"
     },
     "done": true
   },
@@ -1208,6 +1246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2017-12-25 18:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2017-07-22 04:36:06 +0000"
@@ -1283,6 +1327,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2017-11-05 22:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2017-12-26 10:04:03 +0000"
     },
     "done": true
   },
@@ -2116,6 +2166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2017-12-26 10:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2017-09-30 15:42:39 +0000"
@@ -2206,6 +2262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2017-12-25 05:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-10-07 18:54:45 +0000"
@@ -2215,6 +2277,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2017-10-30 00:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2017-12-26 07:35:37 +0000"
     },
     "done": true
   },
@@ -2278,9 +2346,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2017-12-25 06:31:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2017-10-02 07:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2017-12-25 05:35:18 +0000"
     },
     "done": true
   },
@@ -2395,6 +2475,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2017-09-30 16:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2017-12-26 07:32:10 +0000"
     },
     "done": true
   },
