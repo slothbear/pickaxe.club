@@ -689,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-01-16 01:09:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2017-06-12 13:33:51 +0000"
@@ -1698,6 +1704,7 @@
       "deep_ocean": "2017-06-09 22:31:39 +0000",
       "beaches": "2017-06-09 23:08:11 +0000",
       "extreme_hills_with_trees": "2017-07-10 12:13:13 +0000",
+      "desert_hills": "2018-01-13 15:24:13 +0000",
       "forest_hills": "2017-06-10 01:00:51 +0000",
       "savanna": "2017-06-09 23:08:19 +0000",
       "plains": "2017-06-10 00:55:20 +0000",
