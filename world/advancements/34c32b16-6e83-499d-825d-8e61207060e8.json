@@ -659,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2018-01-27 15:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2017-06-17 14:24:26 +0000"
@@ -931,6 +937,7 @@
       "magma_cube": "2017-06-17 14:01:53 +0000",
       "slime": "2017-06-10 00:27:43 +0000",
       "skeleton": "2017-06-11 20:24:13 +0000",
+      "husk": "2018-01-27 15:44:40 +0000",
       "blaze": "2017-06-17 14:03:32 +0000",
       "zombie": "2017-06-10 14:03:35 +0000",
       "witch": "2017-06-18 20:12:12 +0000",

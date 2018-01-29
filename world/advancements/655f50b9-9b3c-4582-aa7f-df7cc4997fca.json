@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2018-01-28 13:38:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2017-07-01 00:58:44 +0000"
@@ -374,6 +380,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2017-07-01 02:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2018-01-28 14:17:35 +0000"
     },
     "done": true
   },
@@ -821,6 +833,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2017-07-02 18:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2018-01-28 13:51:05 +0000"
     },
     "done": true
   },
@@ -1303,6 +1321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2018-01-28 13:38:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2017-07-01 02:14:05 +0000"
@@ -1384,6 +1408,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2017-07-01 00:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-01-28 13:51:05 +0000"
     },
     "done": true
   },
@@ -1573,6 +1603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2018-01-28 13:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-07-01 01:54:00 +0000"
@@ -1687,6 +1723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2018-01-28 13:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2017-07-02 19:47:51 +0000"
@@ -1696,6 +1738,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2017-07-01 00:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2018-01-28 14:35:22 +0000"
     },
     "done": true
   },
@@ -1729,6 +1777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2018-01-28 13:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2017-07-01 02:51:45 +0000"
@@ -1750,6 +1804,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2017-07-01 00:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-01-28 13:51:05 +0000"
     },
     "done": true
   },
