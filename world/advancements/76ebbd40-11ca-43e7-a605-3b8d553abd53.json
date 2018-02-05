@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2018-02-03 17:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2017-06-12 01:03:12 +0000"
@@ -173,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2018-02-03 17:21:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2017-06-12 01:03:12 +0000"
@@ -259,6 +271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2018-02-03 17:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-12 01:10:47 +0000"
@@ -307,6 +325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2018-02-03 17:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2017-06-18 05:10:44 +0000"
@@ -340,6 +364,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2017-11-12 01:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2018-02-03 17:20:56 +0000"
     },
     "done": true
   },
@@ -472,6 +502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-02-03 17:21:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2017-06-18 05:11:32 +0000"
@@ -511,6 +547,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2017-08-06 07:32:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2018-02-03 17:20:56 +0000"
     },
     "done": true
   },
@@ -562,9 +604,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2018-02-03 17:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2017-06-18 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2018-02-03 17:46:09 +0000"
     },
     "done": true
   },
@@ -619,6 +673,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2017-06-18 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2018-02-03 17:46:09 +0000"
     },
     "done": true
   },
@@ -802,6 +862,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2018-02-03 17:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2018-02-03 17:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2017-07-23 00:26:26 +0000"
@@ -840,6 +912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2018-02-03 17:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2017-06-12 03:30:26 +0000"
@@ -861,6 +939,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2017-12-17 00:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2018-02-03 17:20:37 +0000"
     },
     "done": true
   },
@@ -915,6 +999,18 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-12 01:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2018-02-03 17:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2018-02-03 17:46:09 +0000"
     },
     "done": true
   },
@@ -1023,6 +1119,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-18 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2018-02-03 17:46:09 +0000"
     },
     "done": true
   },
@@ -1221,6 +1323,12 @@
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2017-07-23 00:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2018-02-03 17:46:09 +0000"
     },
     "done": true
   },
@@ -1667,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2018-02-03 17:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2017-06-23 22:35:20 +0000"
@@ -1745,6 +1859,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2018-02-03 17:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2018-02-03 17:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2017-10-30 16:34:33 +0000"
@@ -1754,6 +1880,12 @@
   "minecraft:recipes/misc/bone_meal_from_block": {
     "criteria": {
       "has_the_recipe": "2017-06-18 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2018-02-03 17:46:09 +0000"
     },
     "done": true
   },

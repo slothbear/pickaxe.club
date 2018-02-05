@@ -433,6 +433,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2018-02-05 02:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2017-06-09 22:09:14 +0000"
@@ -484,6 +490,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2017-06-19 15:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-02-05 01:44:23 +0000"
     },
     "done": true
   },
@@ -1055,6 +1067,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2017-10-29 22:47:55 +0000",
+      "taiga_cold_hills": "2018-02-04 22:17:52 +0000",
       "forest": "2017-06-09 22:09:55 +0000",
       "mesa_rock": "2017-10-15 20:55:51 +0000",
       "mushroom_island_shore": "2017-11-23 14:12:14 +0000",
@@ -1073,7 +1086,9 @@
       "savanna_rock": "2017-07-09 21:20:32 +0000",
       "ice_mountains": "2017-10-29 22:48:41 +0000",
       "taiga": "2017-06-09 22:14:25 +0000",
+      "redwood_taiga": "2018-02-04 23:42:57 +0000",
       "taiga_hills": "2017-06-10 14:29:41 +0000",
+      "redwood_taiga_hills": "2018-02-04 23:39:36 +0000",
       "birch_forest_hills": "2017-06-12 13:39:35 +0000",
       "mushroom_island": "2017-11-23 14:12:15 +0000",
       "taiga_cold": "2017-10-29 22:46:48 +0000",
@@ -1565,7 +1580,9 @@
       "apple": "2017-11-04 19:31:23 +0000",
       "potato": "2017-06-25 19:39:52 +0000",
       "cooked_cod": "2017-09-03 20:07:04 +0000",
+      "rabbit": "2018-02-03 18:27:06 +0000",
       "poisonous_potato": "2017-11-11 17:57:11 +0000",
+      "pumpkin_pie": "2018-02-04 21:22:33 +0000",
       "mutton": "2018-01-06 02:28:18 +0000",
       "bread": "2017-09-10 20:31:03 +0000",
       "rotten_flesh": "2017-11-11 18:10:19 +0000",
@@ -1677,6 +1694,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "bred_chicken": "2017-11-25 15:51:08 +0000",
+      "bred_ocelot": "2018-02-03 18:22:38 +0000",
       "bred_sheep": "2017-07-08 23:57:21 +0000",
       "bred_wolf": "2017-07-08 13:02:02 +0000",
       "bred_horse": "2017-07-31 23:43:40 +0000",
