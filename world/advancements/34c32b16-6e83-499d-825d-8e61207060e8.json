@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2018-02-11 22:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2017-06-09 22:31:38 +0000"
@@ -137,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2018-02-11 22:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-06-09 22:31:38 +0000"
@@ -152,6 +164,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2017-06-18 21:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-02-10 01:54:41 +0000"
     },
     "done": true
   },
@@ -390,9 +408,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2018-02-11 02:14:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2018-02-11 01:45:59 +0000",
+      "chicken": "2018-02-11 23:27:57 +0000",
       "cooked_beef": "2017-06-18 19:11:50 +0000",
+      "beef": "2018-02-10 01:43:51 +0000",
       "spider_eye": "2017-06-25 19:43:40 +0000",
       "potato": "2017-06-19 00:14:46 +0000",
       "cooked_cod": "2017-06-09 22:33:11 +0000",
@@ -402,6 +429,8 @@
       "bread": "2018-01-06 22:50:56 +0000",
       "cookie": "2017-06-10 14:14:07 +0000",
       "raw_cod": "2017-06-25 22:46:07 +0000",
+      "cooked_rabbit": "2018-02-12 23:36:48 +0000",
+      "cooked_chicken": "2018-02-11 02:31:51 +0000",
       "carrot": "2017-11-24 18:01:58 +0000"
     },
     "done": false
@@ -427,6 +456,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 00:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2018-02-10 02:35:09 +0000"
     },
     "done": true
   },
@@ -508,6 +543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-02-10 01:54:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2017-06-17 17:18:24 +0000"
@@ -544,6 +585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2018-02-11 02:14:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2017-06-11 20:23:30 +0000"
@@ -565,6 +612,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-17 14:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2018-02-11 02:14:29 +0000"
     },
     "done": true
   },
@@ -940,9 +993,11 @@
       "husk": "2018-01-27 15:44:40 +0000",
       "blaze": "2017-06-17 14:03:32 +0000",
       "zombie": "2017-06-10 14:03:35 +0000",
+      "cave_spider": "2018-02-11 23:52:26 +0000",
       "witch": "2017-06-18 20:12:12 +0000",
       "guardian": "2017-06-18 18:37:36 +0000",
       "spider": "2017-06-10 00:27:57 +0000",
+      "ghast": "2018-02-10 01:40:14 +0000",
       "creeper": "2017-06-11 20:23:27 +0000",
       "enderman": "2017-06-10 00:50:08 +0000"
     },
@@ -1029,6 +1084,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2017-06-17 01:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2018-02-10 02:35:09 +0000"
     },
     "done": true
   },
@@ -1708,6 +1769,7 @@
     "criteria": {
       "forest": "2017-06-10 00:55:42 +0000",
       "birch_forest": "2017-06-10 01:00:20 +0000",
+      "swampland": "2018-02-10 01:47:06 +0000",
       "deep_ocean": "2017-06-09 22:31:39 +0000",
       "beaches": "2017-06-09 23:08:11 +0000",
       "extreme_hills_with_trees": "2017-07-10 12:13:13 +0000",
@@ -1719,7 +1781,9 @@
       "jungle_edge": "2017-11-18 22:40:39 +0000",
       "savanna_rock": "2017-06-25 21:28:47 +0000",
       "taiga": "2017-06-10 00:58:35 +0000",
+      "redwood_taiga": "2018-02-10 01:54:12 +0000",
       "taiga_hills": "2017-06-10 00:58:39 +0000",
+      "redwood_taiga_hills": "2018-02-10 02:10:26 +0000",
       "birch_forest_hills": "2017-11-18 22:39:24 +0000",
       "ocean": "2017-06-09 22:32:30 +0000",
       "extreme_hills": "2017-06-10 00:59:11 +0000",
@@ -1859,6 +1923,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-17 14:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2018-02-10 02:35:09 +0000"
     },
     "done": true
   },

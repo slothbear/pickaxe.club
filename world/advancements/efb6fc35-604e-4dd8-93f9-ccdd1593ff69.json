@@ -1712,6 +1712,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2017-06-09 19:32:23 +0000",
+      "bread": "2018-02-11 15:32:51 +0000",
       "cookie": "2017-12-08 21:18:30 +0000"
     },
     "done": false
