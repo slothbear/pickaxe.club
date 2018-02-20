@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2018-02-18 20:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2017-08-06 03:34:49 +0000"
@@ -349,6 +355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2018-02-18 20:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2017-06-10 00:49:06 +0000"
@@ -631,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2018-02-18 20:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-10 02:45:06 +0000"
@@ -653,6 +671,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 00:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2018-02-18 00:20:56 +0000"
     },
     "done": true
   },
@@ -683,6 +707,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2017-06-10 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2018-02-18 20:56:24 +0000"
     },
     "done": true
   },
@@ -975,6 +1005,7 @@
       "zombie": "2017-06-10 06:38:54 +0000",
       "witch": "2017-06-10 07:22:47 +0000",
       "spider": "2017-06-10 07:21:51 +0000",
+      "ghast": "2018-02-20 02:50:17 +0000",
       "creeper": "2017-06-10 06:40:00 +0000",
       "enderman": "2017-06-24 01:36:00 +0000"
     },
@@ -1193,6 +1224,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2017-06-10 00:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2018-02-18 00:20:56 +0000"
     },
     "done": true
   },
@@ -1688,6 +1725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2018-02-18 20:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2017-06-10 23:47:10 +0000"
@@ -1875,6 +1918,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2017-06-10 06:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2018-02-18 20:56:24 +0000"
     },
     "done": true
   },

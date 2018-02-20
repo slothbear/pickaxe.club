@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2018-02-18 23:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2017-06-10 22:25:13 +0000"
@@ -602,6 +608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2018-02-19 00:09:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-10 15:42:06 +0000"
@@ -689,6 +701,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2017-12-16 15:35:26 +0000",
+      "birch_forest": "2018-02-18 23:53:54 +0000",
       "deep_ocean": "2017-06-10 15:47:18 +0000",
       "beaches": "2017-07-15 16:47:27 +0000",
       "extreme_hills_with_trees": "2017-06-11 20:21:14 +0000",
@@ -974,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2018-02-18 23:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lit_pumpkin": {
     "criteria": {
       "has_pumpkin": "2017-07-09 17:38:25 +0000"
@@ -1109,6 +1128,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2017-06-10 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2018-02-18 23:53:54 +0000"
     },
     "done": true
   },

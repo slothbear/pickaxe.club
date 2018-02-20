@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-02-18 21:48:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-12 13:33:51 +0000"
@@ -44,6 +50,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 00:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2018-02-17 01:51:42 +0000"
     },
     "done": true
   },
@@ -336,6 +348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2018-02-17 01:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2017-06-09 22:31:38 +0000"
@@ -418,6 +436,7 @@
     "criteria": {
       "cooked_porkchop": "2018-02-11 01:45:59 +0000",
       "chicken": "2018-02-11 23:27:57 +0000",
+      "cooked_mutton": "2018-02-17 14:55:02 +0000",
       "cooked_beef": "2017-06-18 19:11:50 +0000",
       "beef": "2018-02-10 01:43:51 +0000",
       "spider_eye": "2017-06-25 19:43:40 +0000",
@@ -431,6 +450,7 @@
       "raw_cod": "2017-06-25 22:46:07 +0000",
       "cooked_rabbit": "2018-02-12 23:36:48 +0000",
       "cooked_chicken": "2018-02-11 02:31:51 +0000",
+      "cooked_salmon": "2018-02-17 14:45:01 +0000",
       "carrot": "2017-11-24 18:01:58 +0000"
     },
     "done": false
@@ -492,6 +512,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2018-01-07 22:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2018-02-17 21:45:21 +0000"
     },
     "done": true
   },
@@ -627,9 +653,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2018-02-17 01:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-12 13:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2018-02-18 21:48:21 +0000"
     },
     "done": true
   },
@@ -694,6 +732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2018-02-17 01:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2017-06-09 22:31:38 +0000"
@@ -721,6 +765,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2017-06-17 14:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2018-02-17 21:53:25 +0000"
     },
     "done": true
   },
@@ -883,6 +933,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 00:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2018-02-18 21:48:21 +0000"
     },
     "done": true
   },
@@ -1297,6 +1353,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-02-17 02:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2017-06-17 14:36:38 +0000"
@@ -1360,6 +1422,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2018-01-07 02:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-02-18 21:48:21 +0000"
     },
     "done": true
   },
@@ -1711,6 +1779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2018-02-18 21:44:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2017-06-17 01:40:48 +0000"
@@ -1753,6 +1827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2018-02-17 01:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2017-07-10 00:29:03 +0000"
@@ -1767,7 +1847,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2018-02-17 21:35:25 +0000",
+      "taiga_cold_hills": "2018-02-17 21:35:13 +0000",
       "forest": "2017-06-10 00:55:42 +0000",
+      "mushroom_island_shore": "2018-02-17 21:37:24 +0000",
       "birch_forest": "2017-06-10 01:00:20 +0000",
       "swampland": "2018-02-10 01:47:06 +0000",
       "deep_ocean": "2017-06-09 22:31:39 +0000",
@@ -1780,17 +1863,22 @@
       "jungle_hills": "2017-11-18 23:01:16 +0000",
       "jungle_edge": "2017-11-18 22:40:39 +0000",
       "savanna_rock": "2017-06-25 21:28:47 +0000",
+      "ice_mountains": "2018-02-17 21:35:23 +0000",
       "taiga": "2017-06-10 00:58:35 +0000",
       "redwood_taiga": "2018-02-10 01:54:12 +0000",
       "taiga_hills": "2017-06-10 00:58:39 +0000",
       "redwood_taiga_hills": "2018-02-10 02:10:26 +0000",
       "birch_forest_hills": "2017-11-18 22:39:24 +0000",
+      "mushroom_island": "2018-02-17 21:37:30 +0000",
+      "taiga_cold": "2018-02-17 21:34:58 +0000",
       "ocean": "2017-06-09 22:32:30 +0000",
       "extreme_hills": "2017-06-10 00:59:11 +0000",
       "roofed_forest": "2017-07-10 12:13:21 +0000",
+      "cold_beach": "2018-02-17 21:35:02 +0000",
       "river": "2017-06-09 23:08:17 +0000",
       "jungle": "2017-11-18 22:59:57 +0000",
-      "desert": "2017-07-15 00:56:28 +0000"
+      "desert": "2017-07-15 00:56:28 +0000",
+      "stone_beach": "2018-02-17 15:23:24 +0000"
     },
     "done": false
   },
@@ -1962,6 +2050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2018-02-17 01:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2017-06-18 21:35:35 +0000"
@@ -2121,6 +2215,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2017-06-18 21:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2018-02-18 21:48:21 +0000"
     },
     "done": true
   },

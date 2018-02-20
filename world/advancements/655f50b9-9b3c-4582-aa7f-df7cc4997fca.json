@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2018-02-19 01:45:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2017-07-01 00:39:32 +0000"
@@ -420,6 +426,7 @@
       "cooked_mutton": "2017-07-01 00:42:49 +0000",
       "cooked_beef": "2017-12-16 01:38:02 +0000",
       "beef": "2017-07-15 17:18:47 +0000",
+      "baked_potato": "2018-02-18 23:35:59 +0000",
       "porkchop": "2017-07-15 17:08:00 +0000",
       "apple": "2017-07-02 21:51:24 +0000",
       "spider_eye": "2017-07-08 22:04:59 +0000",
@@ -922,6 +929,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2017-07-01 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2018-02-19 01:13:44 +0000"
     },
     "done": true
   },

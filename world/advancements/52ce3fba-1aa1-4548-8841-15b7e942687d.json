@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2018-02-18 14:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2017-07-29 22:18:16 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2018-02-18 14:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2017-07-29 22:18:16 +0000"
@@ -89,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2018-02-18 14:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2017-07-29 22:18:16 +0000"
@@ -98,15 +116,30 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2017-07-29 22:23:09 +0000",
+      "swampland": "2018-02-18 14:40:23 +0000",
+      "birch_forest": "2018-02-18 14:36:17 +0000",
       "deep_ocean": "2018-02-11 19:03:55 +0000",
       "beaches": "2018-02-11 19:04:46 +0000",
       "extreme_hills_with_trees": "2018-02-11 18:51:58 +0000",
+      "desert_hills": "2018-02-18 14:28:44 +0000",
+      "forest_hills": "2018-02-18 14:33:56 +0000",
       "plains": "2017-07-29 22:21:49 +0000",
+      "savanna": "2018-02-18 14:27:03 +0000",
+      "savanna_rock": "2018-02-18 14:27:24 +0000",
+      "taiga": "2018-02-18 14:45:33 +0000",
       "ocean": "2018-02-11 19:04:22 +0000",
       "extreme_hills": "2018-02-11 18:45:50 +0000",
-      "river": "2018-02-11 18:45:46 +0000"
+      "roofed_forest": "2018-02-18 14:39:32 +0000",
+      "river": "2018-02-11 18:45:46 +0000",
+      "desert": "2018-02-18 14:28:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2018-02-18 14:42:58 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
@@ -150,6 +183,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2018-02-11 18:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2018-02-18 14:42:58 +0000"
     },
     "done": true
   },
@@ -255,6 +294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2018-02-18 14:32:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2018-02-11 18:46:08 +0000"
@@ -288,6 +333,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2017-07-29 22:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2018-02-18 14:32:56 +0000"
     },
     "done": true
   },
@@ -381,6 +432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2018-02-18 14:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2017-07-29 22:18:16 +0000"
@@ -465,6 +522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2018-02-18 14:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2017-07-29 22:18:16 +0000"
@@ -504,6 +567,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2017-07-29 22:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2018-02-18 14:32:56 +0000"
     },
     "done": true
   },
