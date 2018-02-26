@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2018-02-25 02:37:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2017-06-09 19:17:10 +0000"
@@ -1055,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2018-02-24 23:15:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2017-06-09 18:58:52 +0000"
@@ -1363,6 +1375,12 @@
   "minecraft:recipes/decorations/purple_shulker_box": {
     "criteria": {
       "has_shulker_shell": "2017-06-09 20:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-02-24 23:12:00 +0000"
     },
     "done": true
   },
