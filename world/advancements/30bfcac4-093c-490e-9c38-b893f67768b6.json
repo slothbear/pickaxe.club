@@ -457,6 +457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2017-06-09 20:00:35 +0000"
@@ -614,6 +620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-09 20:00:06 +0000"
@@ -694,6 +706,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-09 18:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
     },
     "done": true
   },
@@ -1105,6 +1123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "slime": "2017-06-09 19:04:59 +0000"
@@ -1145,6 +1169,7 @@
     "criteria": {
       "ice_flats": "2017-06-18 02:04:37 +0000",
       "taiga_cold_hills": "2018-02-17 21:36:42 +0000",
+      "frozen_river": "2018-03-03 02:11:29 +0000",
       "forest": "2017-06-09 23:29:26 +0000",
       "mushroom_island_shore": "2018-02-17 21:39:53 +0000",
       "birch_forest": "2017-06-16 23:28:29 +0000",
@@ -1187,6 +1212,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2017-06-09 23:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
     },
     "done": true
   },
@@ -1406,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2017-06-17 00:38:50 +0000"
@@ -1599,6 +1636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2017-06-18 18:51:04 +0000"
@@ -1726,6 +1769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-09 18:49:53 +0000"
@@ -1831,6 +1880,12 @@
       "bred_pig": "2017-06-17 01:20:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
@@ -1970,6 +2025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2017-06-10 02:42:45 +0000",
@@ -1980,6 +2041,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2017-06-09 19:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
     },
     "done": true
   },
@@ -2046,6 +2113,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2017-09-03 19:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
     },
     "done": true
   },
@@ -2148,6 +2221,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_red_flower": "2017-06-17 00:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
     },
     "done": true
   },
@@ -2601,6 +2680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lit_pumpkin": {
     "criteria": {
       "has_pumpkin": "2017-06-10 02:42:45 +0000"
@@ -2718,6 +2803,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-09 18:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-03-03 02:31:09 +0000"
     },
     "done": true
   },

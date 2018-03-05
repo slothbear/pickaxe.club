@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2017-06-10 20:57:19 +0000"
@@ -107,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2017-06-10 21:00:55 +0000"
@@ -155,6 +167,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2018-02-26 00:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
     },
     "done": true
   },
@@ -242,6 +260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2017-06-10 20:57:19 +0000"
@@ -284,6 +308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 20:57:19 +0000"
@@ -296,6 +326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 20:57:19 +0000"
@@ -305,7 +341,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2017-06-10 21:02:11 +0000",
-      "bread": "2018-02-26 01:56:25 +0000"
+      "bread": "2018-02-26 01:56:25 +0000",
+      "cooked_chicken": "2018-03-03 18:07:57 +0000"
     },
     "done": false
   },
@@ -330,6 +367,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2018-02-26 00:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
     },
     "done": true
   },
@@ -417,6 +460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2018-03-03 17:42:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 20:57:19 +0000"
@@ -450,6 +499,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 20:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
     },
     "done": true
   },
@@ -492,6 +547,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 20:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
     },
     "done": true
   },
@@ -624,6 +685,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2017-06-10 21:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
     },
     "done": true
   },
@@ -779,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2017-06-10 20:57:19 +0000"
@@ -854,6 +927,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2017-06-10 20:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2018-03-03 00:33:38 +0000"
     },
     "done": true
   }
