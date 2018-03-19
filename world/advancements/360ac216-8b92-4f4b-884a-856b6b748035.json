@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2018-03-17 11:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-06-24 08:26:46 +0000"
@@ -131,6 +137,12 @@
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
       "has_end_stone": "2017-06-24 08:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2018-03-17 11:07:18 +0000"
     },
     "done": true
   },
@@ -268,7 +280,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2017-06-24 08:33:11 +0000"
+      "cooked_beef": "2017-06-24 08:33:11 +0000",
+      "cooked_chicken": "2018-03-17 10:53:26 +0000"
     },
     "done": false
   },
@@ -350,6 +363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2018-03-17 11:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-24 08:26:46 +0000"
@@ -374,9 +393,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2018-03-17 11:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-24 08:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2018-03-17 11:55:10 +0000"
     },
     "done": true
   },
@@ -404,6 +435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2018-03-17 11:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2017-09-17 14:57:17 +0000"
@@ -413,6 +450,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-24 08:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2018-03-17 11:55:10 +0000"
     },
     "done": true
   },
@@ -549,6 +592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2018-03-17 11:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2017-06-24 08:27:15 +0000"
@@ -603,9 +652,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2018-03-17 10:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2017-06-24 08:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2018-03-17 11:57:01 +0000"
     },
     "done": true
   },
@@ -639,9 +700,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2018-03-17 11:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2017-06-24 16:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2018-03-17 11:55:10 +0000"
     },
     "done": true
   },
@@ -674,6 +747,7 @@
       "slime": "2017-06-24 08:39:37 +0000",
       "husk": "2018-03-03 18:14:15 +0000",
       "zombie": "2017-06-24 15:00:42 +0000",
+      "witch": "2018-03-17 11:51:56 +0000",
       "spider": "2017-06-24 08:53:48 +0000"
     },
     "done": false
@@ -693,6 +767,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2017-12-03 17:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2018-03-17 11:55:10 +0000"
     },
     "done": true
   },
@@ -747,6 +827,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2017-06-24 08:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-03-17 12:23:24 +0000"
     },
     "done": true
   },
