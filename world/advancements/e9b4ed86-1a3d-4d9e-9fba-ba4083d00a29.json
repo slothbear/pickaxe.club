@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-03-24 01:34:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-10 18:31:07 +0000"
@@ -479,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2018-03-24 14:58:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2017-06-17 00:54:49 +0000"
@@ -608,6 +620,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-10 18:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_the_recipe": "2018-03-24 01:34:23 +0000"
     },
     "done": true
   },
@@ -867,6 +885,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2017-06-17 00:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2018-03-24 01:34:25 +0000"
     },
     "done": true
   },
@@ -1254,6 +1278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2018-03-24 01:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2017-06-12 15:53:07 +0000"
@@ -1342,6 +1372,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2017-06-10 18:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-03-24 01:34:25 +0000"
     },
     "done": true
   },
@@ -2109,6 +2145,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2017-06-17 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2018-03-24 01:34:25 +0000"
     },
     "done": true
   },

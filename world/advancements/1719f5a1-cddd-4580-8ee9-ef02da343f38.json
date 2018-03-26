@@ -2053,6 +2053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2018-03-24 19:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2017-06-11 20:12:07 +0000"

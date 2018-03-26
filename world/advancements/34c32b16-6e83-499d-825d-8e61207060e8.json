@@ -879,6 +879,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-03-24 14:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2017-06-18 21:38:51 +0000"
@@ -2260,6 +2266,12 @@
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2017-06-19 15:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2018-03-24 01:33:31 +0000"
     },
     "done": true
   },
