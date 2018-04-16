@@ -1569,6 +1569,7 @@
       "mutton": "2017-11-20 16:14:22 +0000",
       "bread": "2017-12-10 03:22:47 +0000",
       "rotten_flesh": "2018-04-08 21:38:18 +0000",
+      "cookie": "2018-04-14 08:42:30 +0000",
       "cooked_chicken": "2017-10-08 07:42:18 +0000"
     },
     "done": false
@@ -2118,6 +2119,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2017-07-21 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2018-04-14 05:47:52 +0000"
     },
     "done": true
   },
