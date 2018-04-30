@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2018-04-28 17:24:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2018-03-31 03:18:48 +0000"
@@ -929,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2018-04-28 17:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-03-24 13:18:05 +0000",
@@ -1039,11 +1051,13 @@
       "wither_skeleton": "2018-04-08 16:30:29 +0000",
       "zombie_villager": "2018-03-24 20:11:25 +0000",
       "polar_bear": "2018-03-24 19:53:36 +0000",
+      "slime": "2018-04-28 15:21:35 +0000",
       "skeleton": "2018-03-24 14:10:53 +0000",
       "husk": "2018-04-07 23:34:13 +0000",
       "zombie": "2018-03-24 01:36:22 +0000",
       "cave_spider": "2018-03-24 20:31:07 +0000",
       "witch": "2018-04-08 16:06:48 +0000",
+      "guardian": "2018-04-29 00:30:00 +0000",
       "ghast": "2018-03-18 21:38:06 +0000",
       "spider": "2018-03-18 21:57:44 +0000",
       "creeper": "2018-03-18 21:42:29 +0000",
@@ -1144,6 +1158,12 @@
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-04-01 13:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2018-04-28 17:24:22 +0000"
     },
     "done": true
   },
@@ -1628,6 +1648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2018-04-28 17:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2018-03-18 15:34:15 +0000"
@@ -1832,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2018-04-28 17:24:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2018-03-24 13:18:05 +0000",
@@ -1937,6 +1969,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2018-03-25 12:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2018-04-28 17:25:41 +0000"
     },
     "done": true
   },
