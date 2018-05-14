@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2018-05-12 11:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2018-04-07 20:37:32 +0000"
@@ -389,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2018-05-12 10:04:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2018-05-07 00:08:30 +0000"
@@ -436,6 +448,7 @@
       "cooked_porkchop": "2018-04-08 05:14:21 +0000",
       "cooked_mutton": "2018-04-07 21:18:24 +0000",
       "cooked_beef": "2018-04-07 20:40:29 +0000",
+      "chorus_fruit": "2018-05-12 11:11:01 +0000",
       "apple": "2018-04-07 21:32:58 +0000",
       "rotten_flesh": "2018-04-08 17:50:27 +0000",
       "cooked_rabbit": "2018-04-08 06:52:20 +0000",
@@ -710,6 +723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2018-05-12 10:24:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2018-04-08 05:17:42 +0000"
@@ -749,6 +768,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2018-05-05 03:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2018-05-12 10:10:40 +0000"
     },
     "done": true
   },
@@ -932,6 +957,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2018-05-12 05:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-07 20:38:40 +0000"
@@ -971,6 +1002,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-04-07 20:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2018-05-12 09:47:32 +0000"
     },
     "done": true
   },
@@ -1361,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2018-05-12 10:19:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2018-04-08 05:18:54 +0000"
@@ -1727,6 +1770,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2018-05-12 11:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log2": "2018-04-07 02:57:57 +0000"
@@ -1837,6 +1886,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2018-04-07 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2018-05-12 11:48:09 +0000"
     },
     "done": true
   },
@@ -1996,6 +2051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2018-05-12 11:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2018-04-07 20:37:32 +0000"
@@ -2140,6 +2201,12 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2018-05-12 05:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2018-04-07 02:59:21 +0000"
@@ -2155,6 +2222,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2018-04-28 20:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2018-05-12 10:14:01 +0000"
     },
     "done": true
   },
