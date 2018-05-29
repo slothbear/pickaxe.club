@@ -446,6 +446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2018-05-27 02:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2017-07-22 02:12:04 +0000"
