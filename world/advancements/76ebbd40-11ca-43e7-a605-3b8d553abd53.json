@@ -411,6 +411,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chorus_fruit": "2018-06-10 05:53:59 +0000",
       "baked_potato": "2017-08-12 20:50:45 +0000",
       "potato": "2017-08-12 20:22:56 +0000",
       "cooked_cod": "2017-09-09 01:44:57 +0000",
@@ -595,6 +596,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2017-06-18 05:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2018-06-09 21:51:18 +0000"
     },
     "done": true
   },
@@ -1101,6 +1108,12 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2017-06-26 04:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2018-06-09 21:51:18 +0000"
     },
     "done": true
   },
