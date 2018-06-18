@@ -1447,6 +1447,7 @@
       "chicken": "2018-02-11 23:27:57 +0000",
       "cooked_mutton": "2018-02-17 14:55:02 +0000",
       "cooked_beef": "2017-06-18 19:11:50 +0000",
+      "chorus_fruit": "2018-06-17 23:50:24 +0000",
       "beef": "2018-02-10 01:43:51 +0000",
       "beetroot_soup": "2018-02-25 22:01:40 +0000",
       "spider_eye": "2017-06-25 19:43:40 +0000",
@@ -2117,6 +2118,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2017-06-18 18:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2018-06-17 23:42:06 +0000"
     },
     "done": true
   },

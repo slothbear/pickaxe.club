@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2018-06-17 06:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stonebrick": {
     "criteria": {
       "has_mossy_cobblestone": "2017-10-01 20:09:15 +0000"
@@ -755,6 +761,7 @@
       "skeleton": "2017-11-25 21:10:40 +0000",
       "husk": "2017-10-14 04:41:59 +0000",
       "zombie": "2017-11-26 09:18:50 +0000",
+      "guardian": "2018-06-17 06:20:46 +0000",
       "spider": "2018-02-03 21:43:11 +0000",
       "creeper": "2017-10-14 16:07:51 +0000",
       "enderman": "2017-11-12 01:03:42 +0000"
@@ -1145,6 +1152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2018-06-17 06:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2017-11-12 00:47:24 +0000"
@@ -1298,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2018-06-17 06:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2017-10-14 04:39:30 +0000"
@@ -1391,6 +1410,18 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-10-01 20:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2018-06-17 06:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2018-06-17 06:21:27 +0000"
     },
     "done": true
   },
