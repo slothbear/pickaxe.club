@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2018-07-08 00:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2017-06-09 19:13:29 +0000"
@@ -1181,6 +1187,7 @@
       "forest": "2017-06-09 19:14:41 +0000",
       "mesa_rock": "2017-06-12 02:07:53 +0000",
       "birch_forest": "2017-06-16 18:20:53 +0000",
+      "swampland": "2018-07-09 00:58:06 +0000",
       "deep_ocean": "2017-10-07 15:18:44 +0000",
       "beaches": "2017-06-30 22:11:16 +0000",
       "extreme_hills_with_trees": "2017-06-10 14:15:43 +0000",
@@ -1198,6 +1205,7 @@
       "birch_forest_hills": "2018-06-25 01:19:35 +0000",
       "ocean": "2017-06-09 23:08:14 +0000",
       "extreme_hills": "2017-06-10 14:14:31 +0000",
+      "roofed_forest": "2018-07-09 00:57:43 +0000",
       "river": "2017-06-10 14:13:38 +0000",
       "jungle": "2017-06-10 14:18:38 +0000",
       "desert": "2017-06-30 22:16:08 +0000"
@@ -1321,6 +1329,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2017-06-12 02:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-07-09 01:04:05 +0000"
     },
     "done": true
   },
@@ -1498,6 +1512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2018-07-08 14:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2017-06-11 00:42:20 +0000"
@@ -1579,6 +1599,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2017-10-07 15:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2018-07-08 14:29:43 +0000"
     },
     "done": true
   },
@@ -1705,6 +1731,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2017-06-10 13:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2018-07-08 14:27:01 +0000"
     },
     "done": true
   },
