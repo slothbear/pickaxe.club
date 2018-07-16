@@ -361,6 +361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2018-07-16 14:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2018-06-30 19:42:12 +0000",
@@ -513,6 +519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2018-07-16 14:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2018-06-25 15:03:00 +0000"
@@ -528,6 +540,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-02 03:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2018-07-16 14:06:29 +0000"
     },
     "done": true
   },
@@ -606,6 +624,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2017-07-10 14:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2018-07-16 01:38:19 +0000"
     },
     "done": true
   },
@@ -699,6 +723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2018-07-16 13:45:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2017-07-09 01:24:53 +0000"
@@ -720,6 +750,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-10 13:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2018-07-16 16:38:25 +0000"
     },
     "done": true
   },
@@ -853,7 +889,9 @@
       "husk": "2018-06-30 18:14:00 +0000",
       "zombie": "2017-07-10 13:23:47 +0000",
       "silverfish": "2018-07-02 17:41:07 +0000",
+      "witch": "2018-07-14 19:06:11 +0000",
       "spider": "2017-07-15 02:24:52 +0000",
+      "ghast": "2018-07-16 01:38:19 +0000",
       "creeper": "2018-06-25 14:58:35 +0000"
     },
     "done": false
@@ -996,6 +1034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2018-07-16 13:45:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2018-07-07 20:08:40 +0000"
@@ -1089,6 +1133,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2018-02-04 16:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-07-16 13:54:55 +0000"
     },
     "done": true
   },
@@ -1287,6 +1337,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2018-06-24 21:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2018-07-16 16:38:25 +0000"
     },
     "done": true
   },
@@ -1497,6 +1553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2018-07-16 16:38:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2017-07-15 02:24:53 +0000"
@@ -1695,6 +1757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2018-07-16 13:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2017-07-15 02:28:59 +0000"
@@ -1749,6 +1817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2018-07-16 13:45:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-02 03:00:20 +0000"
@@ -1764,6 +1838,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-02 03:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-07-16 13:54:55 +0000"
     },
     "done": true
   }
