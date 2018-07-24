@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-07-22 20:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2017-06-11 20:57:40 +0000"
@@ -377,6 +383,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2017-12-16 02:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2018-07-22 19:31:20 +0000"
     },
     "done": true
   },
@@ -709,6 +721,8 @@
       "savanna": "2017-07-15 16:46:20 +0000",
       "plains": "2017-07-15 16:52:44 +0000",
       "savanna_rock": "2017-07-15 16:51:24 +0000",
+      "taiga": "2018-07-22 20:34:35 +0000",
+      "mushroom_island": "2018-07-22 20:15:01 +0000",
       "ocean": "2017-06-10 15:34:07 +0000",
       "extreme_hills": "2017-06-10 15:38:41 +0000",
       "river": "2017-06-10 17:00:27 +0000",
