@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2017-07-10 14:11:29 +0000"
@@ -41,9 +47,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-07-29 06:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2017-07-10 14:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2018-07-30 01:38:15 +0000"
     },
     "done": true
   },
@@ -86,6 +104,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2017-07-10 13:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2018-07-30 04:00:30 +0000"
     },
     "done": true
   },
@@ -191,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2017-07-10 14:31:10 +0000"
@@ -220,6 +250,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2018-07-07 20:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
     },
     "done": true
   },
@@ -274,6 +310,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2017-07-10 14:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
     },
     "done": true
   },
@@ -414,6 +456,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2017-07-10 14:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2018-07-29 18:27:36 +0000"
     },
     "done": true
   },
@@ -747,6 +795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2018-07-29 06:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-10 13:28:46 +0000"
@@ -834,6 +888,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2018-06-25 04:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2018-07-30 02:50:23 +0000"
     },
     "done": true
   },
@@ -962,9 +1022,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2018-07-29 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-07-02 03:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
     },
     "done": true
   },
@@ -1007,6 +1085,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-02 03:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2018-07-29 05:12:46 +0000"
     },
     "done": true
   },
@@ -1106,6 +1190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_lapis": "2017-07-10 13:39:30 +0000"
@@ -1151,6 +1241,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2018-06-24 20:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2018-07-29 06:26:14 +0000"
     },
     "done": true
   },
@@ -1292,9 +1388,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_cyan_wool": "2018-06-30 19:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2018-07-30 01:38:15 +0000"
     },
     "done": true
   },
@@ -1316,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2017-07-15 02:28:59 +0000"
@@ -1331,6 +1445,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2018-07-07 20:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2018-07-30 01:21:51 +0000"
     },
     "done": true
   },
@@ -1370,6 +1490,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-07-30 02:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-07-29 06:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2017-07-08 15:56:18 +0000"
@@ -1391,6 +1529,12 @@
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2017-07-10 14:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-07-29 05:12:46 +0000"
     },
     "done": true
   },
@@ -1507,16 +1651,19 @@
       "ice_flats": "2018-06-25 04:48:17 +0000",
       "frozen_river": "2018-06-25 04:50:59 +0000",
       "forest": "2017-07-10 13:25:12 +0000",
+      "mesa_rock": "2018-07-30 02:19:02 +0000",
       "birch_forest": "2017-07-10 14:00:25 +0000",
       "swampland": "2018-06-25 04:29:03 +0000",
       "deep_ocean": "2018-06-24 21:33:25 +0000",
       "beaches": "2018-06-24 21:39:14 +0000",
       "extreme_hills_with_trees": "2017-07-10 13:28:02 +0000",
       "desert_hills": "2018-02-04 16:15:34 +0000",
+      "mesa": "2018-07-30 02:28:20 +0000",
       "forest_hills": "2017-07-10 13:36:04 +0000",
       "plains": "2017-07-08 15:56:18 +0000",
       "savanna": "2018-06-24 21:38:29 +0000",
       "savanna_rock": "2018-06-25 04:25:41 +0000",
+      "ice_mountains": "2018-07-29 05:39:40 +0000",
       "taiga": "2017-07-10 13:34:02 +0000",
       "taiga_hills": "2017-07-10 13:34:28 +0000",
       "birch_forest_hills": "2017-07-10 14:00:48 +0000",
@@ -1524,6 +1671,7 @@
       "ocean": "2018-06-24 21:39:30 +0000",
       "extreme_hills": "2017-07-10 13:27:47 +0000",
       "roofed_forest": "2018-06-25 04:26:40 +0000",
+      "cold_beach": "2018-07-29 05:43:35 +0000",
       "river": "2017-07-10 13:27:44 +0000",
       "desert": "2018-06-24 21:34:54 +0000",
       "stone_beach": "2018-07-22 02:10:46 +0000"
@@ -1545,6 +1693,24 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2018-07-01 19:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-07-29 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2018-07-30 04:00:30 +0000"
     },
     "done": true
   },
@@ -1581,6 +1747,12 @@
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2018-06-30 19:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
     },
     "done": true
   },
@@ -1632,9 +1804,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2018-07-29 05:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2018-06-30 02:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2018-07-30 02:50:23 +0000"
     },
     "done": true
   },
@@ -1680,9 +1876,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2018-07-30 02:50:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2018-07-07 20:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2018-07-30 04:00:30 +0000"
     },
     "done": true
   },
@@ -1701,6 +1909,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2018-06-30 20:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-07-30 02:50:23 +0000"
     },
     "done": true
   },
@@ -1752,6 +1966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2017-07-10 13:40:03 +0000"
@@ -1785,6 +2005,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-06-24 20:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2018-07-30 02:22:22 +0000"
     },
     "done": true
   },
