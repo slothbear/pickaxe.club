@@ -412,6 +412,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2018-06-30 19:42:12 +0000",
+      "cooked_mutton": "2018-08-07 16:53:39 +0000",
       "cooked_cod": "2018-06-25 15:01:21 +0000",
       "cooked_chicken": "2017-07-09 01:22:46 +0000"
     },
@@ -1376,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2018-08-07 16:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-02 03:00:20 +0000"
@@ -1505,6 +1512,12 @@
   "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2018-08-07 17:03:05 +0000"
     },
     "done": true
   },
@@ -1732,6 +1745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2018-08-07 16:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2017-07-15 02:24:53 +0000"
@@ -1765,6 +1784,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-02 03:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2018-08-07 02:30:00 +0000"
     },
     "done": true
   },
@@ -2047,6 +2072,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2017-07-15 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2018-08-07 16:52:19 +0000"
     },
     "done": true
   },
