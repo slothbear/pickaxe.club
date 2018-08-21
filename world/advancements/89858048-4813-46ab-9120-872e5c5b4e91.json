@@ -754,6 +754,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-08-20 21:45:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2018-06-30 19:58:09 +0000"
@@ -953,7 +959,8 @@
       "witch": "2018-07-14 19:06:11 +0000",
       "spider": "2017-07-15 02:24:52 +0000",
       "ghast": "2018-07-16 01:38:19 +0000",
-      "creeper": "2018-06-25 14:58:35 +0000"
+      "creeper": "2018-06-25 14:58:35 +0000",
+      "enderman": "2018-08-20 17:18:10 +0000"
     },
     "done": false
   },
@@ -1077,6 +1084,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2018-08-20 17:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-06-24 20:40:50 +0000"
@@ -1152,6 +1165,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-07-01 19:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2018-08-20 17:16:30 +0000"
     },
     "done": true
   },
@@ -1458,6 +1477,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2017-07-15 02:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2018-08-20 18:04:18 +0000"
     },
     "done": true
   },
@@ -1943,6 +1968,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2018-08-20 17:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lit_pumpkin": {
     "criteria": {
       "has_pumpkin": "2018-07-08 01:39:04 +0000"
@@ -2054,6 +2085,12 @@
   "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2018-08-20 19:36:30 +0000"
     },
     "done": true
   },

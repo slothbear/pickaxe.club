@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2018-08-17 16:27:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-07-23 13:59:35 +0000"
@@ -399,6 +405,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2017-07-23 01:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2018-08-17 16:33:28 +0000"
     },
     "done": true
   },
@@ -810,6 +822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2018-08-17 16:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-10-21 01:58:26 +0000"
@@ -823,6 +841,7 @@
       "skeleton": "2017-07-23 02:23:09 +0000",
       "zombie": "2017-07-23 02:23:03 +0000",
       "witch": "2017-07-23 02:44:27 +0000",
+      "guardian": "2018-08-17 16:27:56 +0000",
       "spider": "2017-09-09 02:35:57 +0000",
       "creeper": "2017-07-23 22:30:35 +0000",
       "enderman": "2017-07-23 02:22:49 +0000"
@@ -1339,6 +1358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2018-08-17 16:27:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2017-07-23 17:22:43 +0000"
@@ -1430,6 +1455,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-07-23 17:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2018-08-17 16:34:06 +0000"
     },
     "done": true
   },
@@ -1664,6 +1695,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2018-08-17 16:27:57 +0000"
     },
     "done": true
   },
