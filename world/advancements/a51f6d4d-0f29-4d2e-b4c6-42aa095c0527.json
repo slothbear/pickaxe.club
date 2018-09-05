@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2018-09-02 21:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2017-10-21 13:27:22 +0000"
@@ -342,6 +348,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2018-09-01 19:20:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2017-07-23 01:29:42 +0000"
@@ -424,6 +436,7 @@
     "criteria": {
       "cooked_mutton": "2017-07-23 02:18:18 +0000",
       "chorus_fruit": "2018-08-05 00:51:32 +0000",
+      "cooked_beef": "2018-09-01 18:41:33 +0000",
       "spider_eye": "2018-08-27 21:10:04 +0000",
       "cooked_cod": "2017-07-23 02:53:12 +0000",
       "cookie": "2017-07-23 14:45:53 +0000",
@@ -930,6 +943,7 @@
       "zombie_pigman": "2017-07-24 01:17:48 +0000",
       "zombie_villager": "2017-08-01 01:14:46 +0000",
       "skeleton": "2017-07-23 02:23:09 +0000",
+      "husk": "2018-09-01 16:23:19 +0000",
       "zombie": "2017-07-23 02:23:03 +0000",
       "witch": "2017-07-23 02:44:27 +0000",
       "guardian": "2018-08-17 16:27:56 +0000",
@@ -960,6 +974,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_the_recipe": "2017-07-23 17:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-09-01 19:52:37 +0000"
     },
     "done": true
   },
@@ -1113,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2018-09-02 22:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2017-08-01 00:55:45 +0000"
@@ -1188,6 +1214,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2018-09-01 18:33:37 +0000"
     },
     "done": true
   },

@@ -331,6 +331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2018-09-04 02:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2017-07-10 14:20:03 +0000"
@@ -419,8 +425,10 @@
     "criteria": {
       "cooked_porkchop": "2018-06-30 19:42:12 +0000",
       "cooked_mutton": "2018-08-07 16:53:39 +0000",
+      "potato": "2018-09-02 02:41:50 +0000",
       "cooked_cod": "2018-06-25 15:01:21 +0000",
-      "cooked_chicken": "2017-07-09 01:22:46 +0000"
+      "cooked_chicken": "2017-07-09 01:22:46 +0000",
+      "carrot": "2018-09-02 02:19:41 +0000"
     },
     "done": false
   },
@@ -633,6 +641,14 @@
       "has_bed": "2018-06-24 20:40:50 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_chicken": "2018-09-02 02:43:45 +0000",
+      "bred_rabbit": "2018-09-02 02:45:15 +0000",
+      "bred_pig": "2018-09-02 02:46:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -1782,6 +1798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2018-09-03 06:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-07-30 02:22:22 +0000"
@@ -1974,6 +1996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2018-09-03 06:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-02 03:00:20 +0000"
@@ -2025,6 +2053,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2018-07-30 02:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_chicken": "2018-09-02 02:43:45 +0000"
     },
     "done": true
   },
