@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2018-09-09 19:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-07-10 14:20:03 +0000"
@@ -370,6 +376,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2018-06-24 17:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2018-09-10 16:53:10 +0000"
     },
     "done": true
   },
@@ -986,6 +998,7 @@
       "stray": "2018-07-01 02:19:09 +0000",
       "zombie_villager": "2017-07-15 02:48:15 +0000",
       "magma_cube": "2018-07-07 17:28:19 +0000",
+      "slime": "2018-09-09 20:19:48 +0000",
       "skeleton": "2017-07-10 13:24:19 +0000",
       "husk": "2018-06-30 18:14:00 +0000",
       "zombie": "2017-07-10 13:23:47 +0000",
@@ -1010,6 +1023,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2018-09-09 20:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2018-09-09 20:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-06-24 20:40:50 +0000"
@@ -1019,6 +1044,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2018-07-07 20:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-09-08 23:02:49 +0000"
     },
     "done": true
   },
@@ -1043,6 +1074,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-02 03:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2018-09-09 20:06:29 +0000"
     },
     "done": true
   },
@@ -1181,6 +1218,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2018-07-07 20:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2018-09-09 23:18:02 +0000"
     },
     "done": true
   },
@@ -1544,6 +1587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2018-09-09 20:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2018-06-24 21:18:53 +0000"
@@ -1664,6 +1713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2018-09-09 19:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2018-08-26 14:53:42 +0000"
@@ -1730,9 +1785,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2018-09-09 20:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2018-06-30 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2018-09-09 20:06:21 +0000"
     },
     "done": true
   },
@@ -2122,6 +2189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2018-09-09 19:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2018-07-02 02:58:47 +0000"
@@ -2176,6 +2249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2018-09-09 23:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2018-06-24 20:46:45 +0000"
@@ -2191,6 +2270,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2017-07-10 14:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2018-09-09 20:06:21 +0000"
     },
     "done": true
   },
