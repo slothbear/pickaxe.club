@@ -1485,6 +1485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2018-09-30 23:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-23 00:20:14 +0000"
@@ -1566,6 +1572,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2017-07-29 23:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2018-09-30 23:59:05 +0000"
     },
     "done": true
   },
@@ -1728,6 +1740,8 @@
       "golden_apple": "2017-09-03 18:52:52 +0000",
       "bread": "2018-08-04 18:40:47 +0000",
       "rotten_flesh": "2017-07-23 20:43:50 +0000",
+      "cookie": "2018-09-30 19:35:14 +0000",
+      "cooked_rabbit": "2018-10-01 00:34:57 +0000",
       "cooked_chicken": "2017-07-23 00:53:13 +0000",
       "cooked_salmon": "2017-08-11 21:16:44 +0000",
       "carrot": "2017-07-23 02:14:12 +0000"

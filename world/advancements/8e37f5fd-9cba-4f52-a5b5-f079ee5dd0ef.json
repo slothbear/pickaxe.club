@@ -863,6 +863,7 @@
       "skeleton": "2018-08-11 02:26:35 +0000",
       "husk": "2018-08-11 18:02:43 +0000",
       "zombie": "2018-08-07 02:43:40 +0000",
+      "witch": "2018-10-01 14:03:06 +0000",
       "spider": "2018-08-11 02:18:54 +0000",
       "creeper": "2018-09-16 02:05:35 +0000",
       "enderman": "2018-09-22 20:11:51 +0000"
@@ -878,6 +879,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-08-07 02:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2018-10-01 01:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2018-10-01 01:32:46 +0000"
     },
     "done": true
   },
@@ -908,6 +921,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2018-09-16 02:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2018-10-01 01:32:46 +0000"
     },
     "done": true
   },
@@ -1136,6 +1155,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-08-11 17:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2018-10-01 01:30:23 +0000"
     },
     "done": true
   },
@@ -1499,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2018-10-01 01:32:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2018-08-11 17:08:08 +0000"
@@ -1805,6 +1836,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-08-07 02:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2018-10-01 01:32:42 +0000"
     },
     "done": true
   },
