@@ -397,6 +397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2018-10-14 17:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2018-08-11 18:06:50 +0000"
@@ -616,6 +622,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2018-10-14 18:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2018-08-11 18:07:51 +0000"
@@ -691,6 +703,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2018-08-07 02:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-10-14 17:57:25 +0000"
     },
     "done": true
   },
@@ -790,6 +808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2018-10-14 17:45:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-08-10 23:20:40 +0000"
@@ -865,6 +889,7 @@
       "zombie": "2018-08-07 02:43:40 +0000",
       "witch": "2018-10-01 14:03:06 +0000",
       "spider": "2018-08-11 02:18:54 +0000",
+      "ghast": "2018-10-14 18:07:09 +0000",
       "creeper": "2018-09-16 02:05:35 +0000",
       "enderman": "2018-09-22 20:11:51 +0000"
     },
@@ -1017,6 +1042,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-09-16 02:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2018-10-14 17:45:01 +0000"
     },
     "done": true
   },
@@ -1212,6 +1243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2018-10-14 17:45:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2018-08-10 23:25:57 +0000"
@@ -1341,6 +1378,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2018-08-19 19:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2018-10-14 17:45:01 +0000"
     },
     "done": true
   },
@@ -1689,6 +1732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2018-10-14 17:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2018-08-06 02:07:36 +0000"
@@ -1704,6 +1753,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-09-16 02:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2018-10-14 17:45:01 +0000"
     },
     "done": true
   },
