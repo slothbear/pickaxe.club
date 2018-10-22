@@ -1184,6 +1184,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2018-06-30 14:33:00 +0000",
+      "frozen_river": "2018-10-20 00:58:11 +0000",
       "forest": "2017-06-09 19:14:41 +0000",
       "mesa_rock": "2017-06-12 02:07:53 +0000",
       "birch_forest": "2017-06-16 18:20:53 +0000",

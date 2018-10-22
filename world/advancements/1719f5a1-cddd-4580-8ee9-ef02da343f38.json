@@ -325,6 +325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2018-10-20 02:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2017-06-11 20:12:07 +0000"
@@ -1049,6 +1055,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2017-06-10 00:55:47 +0000",
+      "shulker": "2018-10-20 02:17:25 +0000",
       "wither_skeleton": "2017-06-10 00:55:42 +0000",
       "zombie_villager": "2017-06-10 07:22:36 +0000",
       "magma_cube": "2017-06-10 00:56:01 +0000",
@@ -1719,6 +1726,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2018-10-20 00:38:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2017-06-10 00:53:29 +0000"
@@ -1873,6 +1886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2018-10-20 02:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2017-12-10 23:24:47 +0000"
@@ -2017,6 +2036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2018-10-20 02:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2017-06-11 20:12:07 +0000"
@@ -2026,6 +2051,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-06-10 01:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2018-10-20 02:17:33 +0000"
     },
     "done": true
   },

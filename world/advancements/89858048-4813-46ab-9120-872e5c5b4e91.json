@@ -271,6 +271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2018-10-21 00:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2017-07-10 14:31:10 +0000"
@@ -544,6 +550,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2018-07-30 02:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2018-10-21 00:30:04 +0000"
     },
     "done": true
   },
@@ -1016,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2018-10-20 01:12:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2017-07-10 13:40:10 +0000"
@@ -1072,6 +1090,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2018-07-29 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2018-10-21 00:37:36 +0000"
     },
     "done": true
   },
@@ -1321,6 +1345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2018-10-20 01:12:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2018-07-30 01:38:15 +0000"
@@ -1477,6 +1507,7 @@
       "cooked_mutton": "2018-08-07 16:53:39 +0000",
       "potato": "2018-09-02 02:41:50 +0000",
       "cooked_cod": "2018-06-25 15:01:21 +0000",
+      "pumpkin_pie": "2018-10-21 19:48:15 +0000",
       "cooked_chicken": "2017-07-09 01:22:46 +0000",
       "cooked_salmon": "2018-09-16 12:41:12 +0000",
       "carrot": "2018-09-02 02:19:41 +0000"
@@ -1815,6 +1846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2018-10-20 01:12:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-07-02 03:00:20 +0000"
@@ -1938,6 +1975,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2018-02-04 16:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2018-10-21 21:11:04 +0000"
     },
     "done": true
   },
@@ -2094,6 +2137,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2018-06-25 04:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2018-10-22 01:50:38 +0000"
     },
     "done": true
   },
