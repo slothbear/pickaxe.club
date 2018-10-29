@@ -889,6 +889,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2018-08-19 19:10:40 +0000",
+      "magma_cube": "2018-10-29 02:17:07 +0000",
       "slime": "2018-08-19 19:10:49 +0000",
       "skeleton": "2018-08-11 02:26:35 +0000",
       "husk": "2018-08-11 18:02:43 +0000",

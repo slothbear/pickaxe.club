@@ -1659,6 +1659,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2018-10-29 04:36:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2018-05-07 06:08:49 +0000"

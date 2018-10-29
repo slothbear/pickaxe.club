@@ -11,6 +11,13 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 11
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 settings:
   save-user-cache-on-stop-only: false
   bungeecord: false
@@ -38,7 +45,6 @@ settings:
   moved-too-quickly-threshold: 100.0
 commands:
   tab-complete: 0
-  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -47,13 +53,7 @@ commands:
   - summon
   - testforblock
   - tellraw
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+  log: true
 advancements:
   disable-saving: false
   disabled:

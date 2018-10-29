@@ -651,15 +651,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2018-10-22 07:36:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2018-10-22 07:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2018-10-22 07:36:08 +0000"
     },
     "done": true
   },
@@ -849,15 +849,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2018-10-22 07:36:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2018-10-22 07:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2018-10-22 07:36:22 +0000"
     },
     "done": true
   },
