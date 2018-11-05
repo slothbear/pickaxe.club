@@ -11,14 +11,8 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 11
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
 settings:
+  debug: false
   save-user-cache-on-stop-only: false
   bungeecord: false
   late-bind: false
@@ -41,10 +35,10 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  debug: false
   moved-too-quickly-threshold: 100.0
 commands:
   tab-complete: 0
+  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -53,7 +47,13 @@ commands:
   - summon
   - testforblock
   - tellraw
-  log: true
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 advancements:
   disable-saving: false
   disabled:
@@ -64,6 +64,18 @@ stats:
 world-settings:
   default:
     verbose: true
+    hunger:
+      jump-walk-exhaustion: 0.05
+      jump-sprint-exhaustion: 0.2
+      combat-exhaustion: 0.1
+      regen-exhaustion: 6.0
+      swim-multiplier: 0.01
+      sprint-multiplier: 0.1
+      other-multiplier: 0.0
+    max-tnt-per-tick: 100
+    max-tick-time:
+      tile: 50
+      entity: 50
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -75,7 +87,6 @@ world-settings:
       netherwart-modifier: 100
       vine-modifier: 100
       cocoa-modifier: 100
-    mob-spawn-range: 4
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -97,18 +108,8 @@ world-settings:
     seed-feature: 14357617
     seed-monument: 10387313
     seed-slime: 987234911
-    hunger:
-      jump-walk-exhaustion: 0.05
-      jump-sprint-exhaustion: 0.2
-      combat-exhaustion: 0.1
-      regen-exhaustion: 6.0
-      swim-multiplier: 0.01
-      sprint-multiplier: 0.1
-      other-multiplier: 0.0
-    max-tnt-per-tick: 100
-    max-tick-time:
-      tile: 50
-      entity: 50
+    mob-spawn-range: 4
+    hanging-tick-frequency: 100
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
@@ -117,7 +118,6 @@ world-settings:
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     view-distance: 9
-    hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
     max-entity-collisions: 8
