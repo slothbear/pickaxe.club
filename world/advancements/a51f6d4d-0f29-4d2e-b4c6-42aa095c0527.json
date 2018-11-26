@@ -222,6 +222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2018-11-26 00:11:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2017-07-23 01:20:19 +0000"
@@ -1282,6 +1288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2018-11-26 00:11:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2018-11-18 02:05:26 +0000"
@@ -1297,6 +1309,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-23 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2018-11-26 00:11:58 +0000"
     },
     "done": true
   },
@@ -1624,7 +1642,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "bred_chicken": "2018-11-18 23:03:49 +0000",
-      "bred_sheep": "2017-10-21 13:26:12 +0000"
+      "bred_sheep": "2017-10-21 13:26:12 +0000",
+      "bred_wolf": "2018-11-24 22:49:28 +0000"
     },
     "done": false
   },
@@ -1757,6 +1776,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2017-10-21 01:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2018-11-25 16:12:42 +0000"
     },
     "done": true
   },

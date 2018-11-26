@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2018-11-25 02:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2017-07-10 14:20:03 +0000"
@@ -436,6 +442,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2017-07-08 15:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2018-11-25 02:36:44 +0000"
     },
     "done": true
   },
@@ -1050,6 +1062,7 @@
     "criteria": {
       "ice_flats": "2018-06-25 04:48:17 +0000",
       "frozen_river": "2018-06-25 04:50:59 +0000",
+      "taiga_cold_hills": "2018-11-25 19:35:11 +0000",
       "forest": "2017-07-10 13:25:12 +0000",
       "mesa_rock": "2018-07-30 02:19:02 +0000",
       "birch_forest": "2017-07-10 14:00:25 +0000",
@@ -1495,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2018-11-25 02:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2017-07-10 13:30:13 +0000"
@@ -1613,6 +1632,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2018-07-16 14:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2018-11-25 02:36:44 +0000"
     },
     "done": true
   },
@@ -2188,6 +2213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2018-11-25 02:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2017-07-10 14:31:10 +0000"
@@ -2275,6 +2306,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2018-07-08 03:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2018-11-25 02:36:44 +0000"
     },
     "done": true
   },
