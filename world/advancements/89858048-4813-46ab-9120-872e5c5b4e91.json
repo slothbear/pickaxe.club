@@ -608,6 +608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2018-11-30 23:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2018-09-08 23:02:49 +0000"
@@ -968,6 +974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2018-11-30 23:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2017-07-10 14:20:03 +0000"
@@ -1082,6 +1094,7 @@
       "taiga": "2017-07-10 13:34:02 +0000",
       "taiga_hills": "2017-07-10 13:34:28 +0000",
       "birch_forest_hills": "2017-07-10 14:00:48 +0000",
+      "mushroom_island": "2018-12-03 04:32:54 +0000",
       "taiga_cold": "2018-07-01 03:04:55 +0000",
       "ocean": "2018-06-24 21:39:30 +0000",
       "extreme_hills": "2017-07-10 13:27:47 +0000",
@@ -1661,6 +1674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2018-11-30 23:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2017-07-10 14:11:29 +0000"
@@ -2144,6 +2163,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2017-07-10 14:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2018-11-30 21:50:27 +0000"
     },
     "done": true
   },
