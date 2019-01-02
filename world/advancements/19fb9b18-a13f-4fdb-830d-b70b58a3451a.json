@@ -1921,7 +1921,8 @@
       "bred_rabbit": "2018-02-11 22:30:30 +0000",
       "bred_horse": "2017-07-31 23:43:40 +0000",
       "bred_cow": "2017-08-05 00:53:08 +0000",
-      "bred_mooshroom": "2018-02-17 21:30:08 +0000"
+      "bred_mooshroom": "2018-02-17 21:30:08 +0000",
+      "bred_pig": "2019-01-01 15:29:21 +0000"
     },
     "done": false
   },
@@ -2354,6 +2355,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2017-09-03 18:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2018-12-31 14:17:15 +0000"
     },
     "done": true
   },

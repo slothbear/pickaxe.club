@@ -658,6 +658,7 @@
       "zombie": "2017-07-23 02:07:12 +0000",
       "silverfish": "2018-09-08 02:49:18 +0000",
       "witch": "2017-07-23 20:24:16 +0000",
+      "guardian": "2019-01-01 23:23:51 +0000",
       "spider": "2017-07-23 20:29:44 +0000",
       "ghast": "2017-07-29 23:36:55 +0000",
       "creeper": "2017-07-23 20:17:29 +0000",
@@ -674,6 +675,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2017-07-29 22:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-01-02 17:24:54 +0000"
     },
     "done": true
   },
@@ -1736,6 +1743,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2017-07-23 00:20:47 +0000",
+      "chicken": "2018-12-31 16:46:54 +0000",
       "cooked_mutton": "2017-08-01 00:47:13 +0000",
       "cooked_beef": "2017-07-23 20:46:36 +0000",
       "chorus_fruit": "2018-09-03 02:52:37 +0000",
@@ -1746,10 +1754,12 @@
       "cooked_cod": "2017-08-12 20:04:53 +0000",
       "melon": "2017-08-18 23:36:14 +0000",
       "pumpkin_pie": "2018-08-17 15:49:06 +0000",
+      "raw_salmon": "2019-01-02 14:36:08 +0000",
       "golden_apple": "2017-09-03 18:52:52 +0000",
       "bread": "2018-08-04 18:40:47 +0000",
       "rotten_flesh": "2017-07-23 20:43:50 +0000",
       "cookie": "2018-09-30 19:35:14 +0000",
+      "raw_cod": "2018-12-29 01:26:21 +0000",
       "cooked_rabbit": "2018-10-01 00:34:57 +0000",
       "cooked_chicken": "2017-07-23 00:53:13 +0000",
       "cooked_salmon": "2017-08-11 21:16:44 +0000",
@@ -1873,6 +1883,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_chicken": "2019-01-02 01:26:00 +0000",
       "bred_sheep": "2017-07-29 20:00:44 +0000",
       "bred_rabbit": "2017-09-03 20:00:14 +0000",
       "bred_cow": "2017-07-29 20:00:32 +0000",
@@ -2477,6 +2488,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2017-07-29 19:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2018-12-29 20:15:06 +0000"
     },
     "done": true
   },
