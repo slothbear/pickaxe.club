@@ -620,6 +620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2019-01-12 20:22:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-06-24 20:40:50 +0000"
@@ -659,6 +665,12 @@
   "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-07-30 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2019-01-12 20:22:46 +0000"
     },
     "done": true
   },
@@ -1257,6 +1269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2019-01-12 20:22:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2018-09-21 04:11:56 +0000"
@@ -1665,6 +1683,7 @@
     "criteria": {
       "bred_chicken": "2018-09-02 02:43:45 +0000",
       "bred_rabbit": "2018-09-02 02:45:15 +0000",
+      "bred_cow": "2019-01-12 20:26:27 +0000",
       "bred_pig": "2018-09-02 02:46:16 +0000"
     },
     "done": false
