@@ -494,6 +494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2019-02-18 04:20:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-07-24 04:03:47 +0000"
@@ -929,6 +935,7 @@
       "blaze": "2017-06-30 21:45:12 +0000",
       "zombie": "2017-06-30 21:15:26 +0000",
       "silverfish": "2017-07-22 20:16:13 +0000",
+      "witch": "2019-02-18 04:43:18 +0000",
       "spider": "2017-07-22 16:02:39 +0000",
       "creeper": "2017-06-30 21:30:57 +0000",
       "enderman": "2017-06-24 14:21:26 +0000"

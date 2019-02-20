@@ -465,6 +465,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2019-02-18 08:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2018-02-03 20:51:17 +0000"
@@ -764,10 +770,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2018-02-03 10:07:13 +0000",
+      "wither_skeleton": "2019-02-18 08:18:38 +0000",
       "zombie_villager": "2018-02-04 04:30:05 +0000",
+      "magma_cube": "2019-02-18 08:04:28 +0000",
       "slime": "2018-02-04 07:10:17 +0000",
       "skeleton": "2018-02-03 08:47:00 +0000",
       "husk": "2018-02-03 08:20:53 +0000",
+      "blaze": "2019-02-18 08:18:45 +0000",
       "zombie": "2018-02-03 08:43:45 +0000",
       "witch": "2018-02-05 04:41:28 +0000",
       "guardian": "2018-02-03 09:10:37 +0000",
