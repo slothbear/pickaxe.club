@@ -167,17 +167,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2017-07-23 00:20:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2017-07-23 00:20:14 +0000",
       "diamond_helmet": "2017-07-23 00:20:14 +0000",
       "diamond_boots": "2017-07-23 00:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-07-23 00:20:14 +0000"
     },
     "done": true
   },
@@ -759,7 +759,7 @@
   },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
-      "has_terracotta": "2019-02-22 02:49:58 +0000"
+      "has_terracotta": "2019-07-23 14:11:56 +0000"
     },
     "done": true
   },
@@ -1991,6 +1991,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2019-03-02 00:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2017-07-29 22:59:04 +0000"
@@ -2237,6 +2243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-03-02 00:30:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2017-07-29 22:32:11 +0000"
@@ -2474,6 +2486,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2019-02-22 02:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2019-03-01 21:12:13 +0000"
     },
     "done": true
   },
