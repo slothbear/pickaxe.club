@@ -181,6 +181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2019-03-09 18:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2017-06-12 01:03:19 +0000"
@@ -196,6 +202,12 @@
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2017-06-18 02:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-03-09 19:08:17 +0000"
     },
     "done": true
   },
@@ -253,6 +265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-03-10 19:55:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2017-06-18 05:11:32 +0000"
@@ -268,6 +286,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2017-10-30 16:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2019-03-09 21:40:02 +0000"
     },
     "done": true
   },
@@ -334,6 +358,12 @@
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_magenta_wool": "2018-10-22 07:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2019-03-09 19:13:56 +0000"
     },
     "done": true
   },
@@ -493,6 +523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-03-09 21:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2017-06-18 05:11:32 +0000"
@@ -545,6 +581,7 @@
       "minecraft:husk": "2017-07-15 22:37:33 +0000",
       "minecraft:ghast": "2017-12-28 07:07:55 +0000",
       "minecraft:shulker": "2019-01-21 19:12:46 +0000",
+      "minecraft:guardian": "2019-03-09 21:39:19 +0000",
       "minecraft:enderman": "2017-06-26 04:57:40 +0000",
       "minecraft:stray": "2017-09-24 02:29:52 +0000",
       "minecraft:magma_cube": "2017-08-05 21:44:28 +0000",
@@ -565,6 +602,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2018-10-22 07:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-03-10 19:56:16 +0000"
     },
     "done": true
   },
@@ -760,6 +803,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2019-03-09 19:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2019-03-10 19:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2019-03-09 18:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2017-07-02 03:00:57 +0000"
@@ -940,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-03-09 18:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2017-06-12 01:03:12 +0000"
@@ -973,6 +1040,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2017-08-05 21:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2019-03-09 19:08:17 +0000"
     },
     "done": true
   },
@@ -1180,6 +1253,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2018-02-03 17:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2019-03-10 23:36:00 +0000"
     },
     "done": true
   },
@@ -1417,6 +1496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-03-09 21:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2017-06-18 05:10:44 +0000"
@@ -1478,6 +1563,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2017-06-12 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-03-09 21:41:59 +0000"
     },
     "done": true
   },
@@ -1613,6 +1704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2019-03-09 18:44:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2018-02-03 17:46:09 +0000"
@@ -1622,6 +1719,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2018-10-22 07:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2019-03-09 21:40:02 +0000"
     },
     "done": true
   },
@@ -1658,6 +1761,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2018-12-15 21:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2019-03-09 18:37:40 +0000"
     },
     "done": true
   },
@@ -1709,6 +1818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-03-09 21:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2017-09-11 06:29:43 +0000"
@@ -1736,6 +1851,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2017-06-18 05:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2019-03-10 19:55:14 +0000"
     },
     "done": true
   },
@@ -1823,6 +1944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-03-09 19:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_the_recipe": "2017-10-30 17:18:09 +0000"
@@ -1898,6 +2025,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2017-09-16 20:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-03-09 21:30:54 +0000"
     },
     "done": true
   },
@@ -2129,6 +2262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-03-10 19:54:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2017-06-12 01:03:25 +0000"
@@ -2174,6 +2313,12 @@
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2018-12-28 08:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2019-03-10 19:55:00 +0000"
     },
     "done": true
   },
@@ -2267,6 +2412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-03-09 21:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2017-06-12 03:39:54 +0000"
@@ -2327,6 +2478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-03-09 21:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2017-06-18 01:53:16 +0000"
@@ -2378,6 +2535,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2017-09-11 06:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-03-09 18:38:00 +0000"
     },
     "done": true
   },

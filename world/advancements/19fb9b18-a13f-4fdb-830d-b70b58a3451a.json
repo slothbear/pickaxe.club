@@ -628,8 +628,8 @@
       "minecraft:magma_cube": "2017-06-09 22:36:04 +0000",
       "minecraft:spider": "2017-06-09 22:31:00 +0000",
       "minecraft:zombie": "2017-06-09 22:18:21 +0000",
-      "minecraft:creeper": "2017-06-09 22:31:10 +0000",
       "minecraft:drowned": "2019-02-23 17:12:15 +0000",
+      "minecraft:creeper": "2017-06-09 22:31:10 +0000",
       "minecraft:zombie_villager": "2017-07-30 21:04:13 +0000",
       "minecraft:slime": "2017-06-09 22:27:37 +0000"
     },
@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-03-09 20:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2017-06-19 00:50:23 +0000"
@@ -866,6 +872,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2017-06-10 16:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2019-03-09 20:55:28 +0000"
     },
     "done": true
   },
@@ -1137,10 +1149,10 @@
     "criteria": {
       "minecraft:jungle_edge": "2017-09-23 23:21:55 +0000",
       "minecraft:snowy_mountains": "2017-10-29 22:48:41 +0000",
-      "minecraft:forest": "2017-06-09 22:09:55 +0000",
-      "minecraft:badlands_plateau": "2018-02-25 21:08:26 +0000",
-      "minecraft:mushroom_fields": "2017-11-23 14:12:15 +0000",
       "minecraft:mountains": "2017-06-09 22:14:27 +0000",
+      "minecraft:mushroom_fields": "2017-11-23 14:12:15 +0000",
+      "minecraft:badlands_plateau": "2018-02-25 21:08:26 +0000",
+      "minecraft:forest": "2017-06-09 22:09:55 +0000",
       "minecraft:taiga": "2017-06-09 22:14:25 +0000",
       "minecraft:desert_hills": "2017-07-09 21:20:47 +0000",
       "minecraft:giant_tree_taiga": "2018-02-04 23:42:57 +0000",
@@ -1162,10 +1174,10 @@
       "minecraft:birch_forest_hills": "2017-06-12 13:39:35 +0000",
       "minecraft:wooded_mountains": "2017-06-11 20:00:12 +0000",
       "minecraft:wooded_hills": "2017-06-09 22:10:36 +0000",
-      "minecraft:giant_tree_taiga_hills": "2018-02-04 23:39:36 +0000",
       "minecraft:stone_shore": "2017-10-14 20:34:51 +0000",
-      "minecraft:wooded_badlands_plateau": "2017-10-15 20:55:51 +0000",
+      "minecraft:giant_tree_taiga_hills": "2018-02-04 23:39:36 +0000",
       "minecraft:mushroom_field_shore": "2017-11-23 14:12:14 +0000",
+      "minecraft:wooded_badlands_plateau": "2017-10-15 20:55:51 +0000",
       "minecraft:swamp": "2017-10-22 20:03:28 +0000",
       "minecraft:snowy_taiga_hills": "2018-02-04 22:17:52 +0000",
       "minecraft:savanna": "2017-06-09 23:08:18 +0000",
@@ -1697,6 +1709,7 @@
       "cooked_rabbit": "2018-03-03 16:11:18 +0000",
       "cooked_chicken": "2017-07-29 23:20:48 +0000",
       "mushroom_stew": "2017-07-09 21:29:04 +0000",
+      "cod": "2019-03-09 20:37:34 +0000",
       "carrot": "2017-06-19 15:23:48 +0000"
     },
     "done": false
@@ -1704,6 +1717,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2017-06-10 14:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-03-09 20:55:40 +0000"
     },
     "done": true
   },
@@ -1716,6 +1735,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2017-06-10 14:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2019-03-09 20:55:40 +0000"
     },
     "done": true
   },
@@ -1869,11 +1894,11 @@
       "minecraft:ocelot": "2018-02-03 18:22:38 +0000",
       "minecraft:cow": "2017-08-05 00:53:08 +0000",
       "minecraft:chicken": "2017-11-25 15:51:08 +0000",
-      "minecraft:wolf": "2017-07-08 13:02:02 +0000",
       "minecraft:pig": "2019-01-01 15:29:21 +0000",
+      "minecraft:wolf": "2017-07-08 13:02:02 +0000",
       "minecraft:horse": "2017-07-31 23:43:40 +0000",
-      "minecraft:sheep": "2017-07-08 23:57:21 +0000",
-      "minecraft:rabbit": "2018-02-11 22:30:30 +0000"
+      "minecraft:rabbit": "2018-02-11 22:30:30 +0000",
+      "minecraft:sheep": "2017-07-08 23:57:21 +0000"
     },
     "done": false
   },
@@ -2405,6 +2430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-03-08 23:29:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2017-07-16 20:21:27 +0000"
@@ -2432,6 +2463,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-10 16:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2019-03-09 21:05:25 +0000"
     },
     "done": true
   },
