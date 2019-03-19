@@ -173,16 +173,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2017-06-09 19:13:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2017-06-09 19:13:29 +0000",
       "diamond_boots": "2017-06-09 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-06-09 19:13:29 +0000"
     },
     "done": true
   },
@@ -1197,6 +1197,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-03-17 17:54:17 +0000",
       "minecraft:jungle_edge": "2017-06-10 14:18:08 +0000",
       "minecraft:snowy_mountains": "2018-06-30 14:33:22 +0000",
       "minecraft:mountains": "2017-06-10 14:14:31 +0000",
@@ -1208,13 +1209,18 @@
       "minecraft:taiga_hills": "2017-06-10 14:13:59 +0000",
       "minecraft:desert": "2017-06-30 22:16:08 +0000",
       "minecraft:frozen_river": "2018-10-20 00:58:11 +0000",
+      "minecraft:deep_frozen_ocean": "2019-03-17 17:44:30 +0000",
       "minecraft:jungle": "2017-06-10 14:18:38 +0000",
       "minecraft:birch_forest": "2017-06-16 18:20:53 +0000",
       "minecraft:jungle_hills": "2017-06-10 14:18:12 +0000",
+      "minecraft:snowy_beach": "2019-03-17 17:55:56 +0000",
+      "minecraft:warm_ocean": "2019-03-17 18:00:59 +0000",
+      "minecraft:deep_lukewarm_ocean": "2019-03-17 18:01:45 +0000",
       "minecraft:badlands": "2018-04-14 18:43:50 +0000",
       "minecraft:savanna_plateau": "2017-06-30 22:07:36 +0000",
       "minecraft:beach": "2017-06-30 22:11:16 +0000",
       "minecraft:dark_forest": "2018-07-09 00:57:43 +0000",
+      "minecraft:lukewarm_ocean": "2019-03-17 18:00:22 +0000",
       "minecraft:river": "2017-06-10 14:13:38 +0000",
       "minecraft:birch_forest_hills": "2018-06-25 01:19:35 +0000",
       "minecraft:wooded_mountains": "2017-06-10 14:15:43 +0000",
@@ -1759,7 +1765,8 @@
     "criteria": {
       "baked_potato": "2017-06-09 19:32:23 +0000",
       "bread": "2018-02-11 15:32:51 +0000",
-      "cookie": "2017-12-08 21:18:30 +0000"
+      "cookie": "2017-12-08 21:18:30 +0000",
+      "mushroom_stew": "2019-03-16 17:02:02 +0000"
     },
     "done": false
   },
@@ -2634,6 +2641,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2017-06-11 00:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2019-03-16 23:54:26 +0000"
     },
     "done": true
   },
