@@ -143,17 +143,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-07-08 15:56:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2017-07-08 15:56:18 +0000",
       "diamond_chestplate": "2017-07-08 15:56:18 +0000",
       "diamond_boots": "2017-07-08 15:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2017-07-08 15:56:18 +0000"
     },
     "done": true
   },
@@ -196,6 +196,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2019-02-21 16:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-04-14 19:01:57 +0000"
     },
     "done": true
   },
@@ -616,14 +622,15 @@
       "minecraft:zombie_pigman": "2018-07-01 01:53:56 +0000",
       "minecraft:husk": "2018-06-30 18:14:00 +0000",
       "minecraft:ghast": "2018-07-16 01:38:19 +0000",
-      "minecraft:enderman": "2018-08-20 17:18:10 +0000",
-      "minecraft:silverfish": "2018-07-02 17:41:07 +0000",
+      "minecraft:shulker": "2019-04-15 17:49:56 +0000",
       "minecraft:stray": "2018-07-01 02:19:09 +0000",
+      "minecraft:silverfish": "2018-07-02 17:41:07 +0000",
+      "minecraft:enderman": "2018-08-20 17:18:10 +0000",
       "minecraft:magma_cube": "2018-07-07 17:28:19 +0000",
       "minecraft:spider": "2017-07-15 02:24:52 +0000",
       "minecraft:zombie": "2017-07-10 13:23:47 +0000",
-      "minecraft:drowned": "2019-03-09 07:29:16 +0000",
       "minecraft:creeper": "2018-06-25 14:58:35 +0000",
+      "minecraft:drowned": "2019-03-09 07:29:16 +0000",
       "minecraft:zombie_villager": "2017-07-15 02:48:15 +0000",
       "minecraft:slime": "2018-09-09 20:19:48 +0000"
     },
@@ -1168,10 +1175,10 @@
     "criteria": {
       "minecraft:jungle_edge": "2018-09-24 16:10:13 +0000",
       "minecraft:snowy_mountains": "2018-07-29 05:39:40 +0000",
-      "minecraft:badlands_plateau": "2019-03-10 20:29:22 +0000",
-      "minecraft:mountains": "2017-07-10 13:27:47 +0000",
-      "minecraft:mushroom_fields": "2018-12-03 04:32:54 +0000",
       "minecraft:forest": "2017-07-10 13:25:12 +0000",
+      "minecraft:mushroom_fields": "2018-12-03 04:32:54 +0000",
+      "minecraft:mountains": "2017-07-10 13:27:47 +0000",
+      "minecraft:badlands_plateau": "2019-03-10 20:29:22 +0000",
       "minecraft:taiga": "2017-07-10 13:34:02 +0000",
       "minecraft:desert_hills": "2018-02-04 16:15:34 +0000",
       "minecraft:deep_cold_ocean": "2019-02-24 23:15:17 +0000",
@@ -1189,8 +1196,8 @@
       "minecraft:savanna_plateau": "2018-06-25 04:25:41 +0000",
       "minecraft:beach": "2018-06-24 21:39:14 +0000",
       "minecraft:dark_forest": "2018-06-25 04:26:40 +0000",
-      "minecraft:river": "2017-07-10 13:27:44 +0000",
       "minecraft:lukewarm_ocean": "2019-03-10 21:06:23 +0000",
+      "minecraft:river": "2017-07-10 13:27:44 +0000",
       "minecraft:snowy_taiga": "2018-07-01 03:04:55 +0000",
       "minecraft:birch_forest_hills": "2017-07-10 14:00:48 +0000",
       "minecraft:wooded_mountains": "2017-07-10 13:28:02 +0000",
@@ -1600,6 +1607,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2019-04-15 17:51:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_the_recipe": "2018-07-16 13:54:55 +0000"
@@ -1689,6 +1702,7 @@
       "cooked_porkchop": "2018-06-30 19:42:12 +0000",
       "cooked_mutton": "2018-08-07 16:53:39 +0000",
       "cooked_beef": "2019-02-02 18:43:44 +0000",
+      "chorus_fruit": "2019-04-14 19:16:12 +0000",
       "spider_eye": "2019-01-26 23:24:21 +0000",
       "potato": "2018-09-02 02:41:50 +0000",
       "cooked_cod": "2018-06-25 15:01:21 +0000",
@@ -1862,8 +1876,8 @@
       "minecraft:cow": "2019-01-12 20:26:27 +0000",
       "minecraft:chicken": "2018-09-02 02:43:45 +0000",
       "minecraft:pig": "2018-09-02 02:46:16 +0000",
-      "minecraft:rabbit": "2018-09-02 02:45:15 +0000",
-      "minecraft:sheep": "2019-02-03 15:45:38 +0000"
+      "minecraft:sheep": "2019-02-03 15:45:38 +0000",
+      "minecraft:rabbit": "2018-09-02 02:45:15 +0000"
     },
     "done": false
   },
@@ -2503,6 +2517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2019-04-15 17:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-03-10 02:54:11 +0000"
@@ -2542,6 +2562,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2018-09-21 03:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2019-04-15 17:50:44 +0000"
     },
     "done": true
   },
