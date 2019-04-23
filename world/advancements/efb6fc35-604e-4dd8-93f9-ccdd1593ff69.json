@@ -173,16 +173,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2017-06-09 19:13:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2017-06-09 19:13:29 +0000",
       "diamond_boots": "2017-06-09 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-06-09 19:13:29 +0000"
     },
     "done": true
   },
@@ -2366,6 +2366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2019-04-19 23:31:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2017-06-09 22:49:53 +0000"
@@ -2699,6 +2705,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2017-06-09 19:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-04-20 22:53:25 +0000"
     },
     "done": true
   },
