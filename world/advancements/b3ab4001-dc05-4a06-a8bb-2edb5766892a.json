@@ -173,17 +173,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-07-23 00:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2017-07-23 00:20:14 +0000",
       "diamond_helmet": "2017-07-23 00:20:14 +0000",
       "diamond_boots": "2017-07-23 00:20:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2017-07-23 00:20:14 +0000"
     },
     "done": true
   },
@@ -2526,15 +2526,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2017-07-23 00:20:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2017-07-23 00:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2017-07-23 00:20:14 +0000"
     },
     "done": true
   },
