@@ -143,17 +143,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2017-07-08 15:56:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2017-07-08 15:56:18 +0000",
       "diamond_chestplate": "2017-07-08 15:56:18 +0000",
       "diamond_boots": "2017-07-08 15:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-07-08 15:56:18 +0000"
     },
     "done": true
   },
@@ -166,6 +166,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-02 03:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-05-05 17:33:00 +0000"
     },
     "done": true
   },
@@ -1340,6 +1346,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2018-08-27 03:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-05-04 20:00:04 +0000"
     },
     "done": true
   },
