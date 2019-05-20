@@ -29,15 +29,21 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-05-18 04:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2017-08-26 17:05:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
-      "has_planks": "2017-08-26 16:53:41 +0000"
+      "has_planks": "2019-05-18 04:16:47 +0000"
     },
     "done": true
   },
@@ -47,7 +53,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapdoor": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-08-26 16:53:41 +0000"
     },
@@ -65,12 +71,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2017-08-26 16:53:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2017-08-26 16:53:41 +0000",
@@ -80,9 +80,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-08-26 16:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2017-08-26 16:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-05-18 04:16:47 +0000"
     },
     "done": true
   },
@@ -95,12 +107,6 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2017-08-26 17:13:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/wooden_pressure_plate": {
-    "criteria": {
-      "has_planks": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
@@ -142,13 +148,7 @@
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "entered_water": "2017-08-26 17:18:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/wooden_button": {
-    "criteria": {
-      "has_planks": "2017-08-26 16:53:41 +0000"
+      "in_water": "2019-05-18 04:20:34 +0000"
     },
     "done": true
   },
@@ -190,6 +190,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2019-05-18 04:32:24 +0000",
       "cooked_cod": "2017-08-26 17:16:21 +0000"
     },
     "done": false
@@ -218,9 +219,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_block": {
+  "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
-      "has_iron_block": "2017-08-26 16:53:41 +0000"
+      "has_planks": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
@@ -230,15 +231,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2017-08-26 16:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2017-08-26 18:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone": {
+  "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
-      "has_bone": "2017-08-26 16:56:47 +0000"
+      "has_planks": "2017-08-26 16:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
@@ -248,15 +267,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2017-08-26 16:53:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2017-08-26 16:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
@@ -266,15 +285,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
+  "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
-      "has_iron_ingot": "2017-08-26 16:53:41 +0000"
+      "has_planks": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/noteblock": {
+  "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
-      "has_redstone": "2017-08-26 16:53:41 +0000"
+      "has_iron_ingot": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
@@ -292,13 +311,19 @@
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "skeleton": "2017-08-26 16:56:36 +0000"
+      "minecraft:skeleton": "2017-08-26 16:56:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2017-08-26 16:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
@@ -311,6 +336,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2017-08-26 18:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2019-05-18 04:16:47 +0000"
     },
     "done": true
   },
@@ -340,25 +371,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest": "2017-08-26 17:03:11 +0000",
-      "forest_hills": "2017-08-26 17:02:42 +0000",
-      "plains": "2017-08-26 16:53:42 +0000",
-      "taiga": "2017-08-26 17:02:56 +0000",
-      "taiga_hills": "2017-08-26 18:04:11 +0000",
-      "extreme_hills": "2017-08-26 17:25:49 +0000",
-      "river": "2017-08-26 17:18:12 +0000"
+      "minecraft:mountains": "2017-08-26 17:25:49 +0000",
+      "minecraft:forest": "2017-08-26 17:03:11 +0000",
+      "minecraft:taiga": "2017-08-26 17:02:56 +0000",
+      "minecraft:taiga_hills": "2017-08-26 18:04:11 +0000",
+      "minecraft:birch_forest": "2019-05-18 04:33:12 +0000",
+      "minecraft:dark_forest": "2019-05-18 04:36:09 +0000",
+      "minecraft:river": "2017-08-26 17:18:12 +0000",
+      "minecraft:birch_forest_hills": "2019-05-18 04:34:26 +0000",
+      "minecraft:wooded_hills": "2017-08-26 17:02:42 +0000",
+      "minecraft:stone_shore": "2019-05-18 04:38:46 +0000",
+      "minecraft:plains": "2017-08-26 16:53:42 +0000"
     },
     "done": false
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2017-08-26 16:53:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wooden_slab": {
-    "criteria": {
-      "has_planks": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
@@ -388,7 +417,7 @@
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "entered_water": "2017-08-26 17:18:11 +0000"
+      "in_water": "2019-05-18 04:20:34 +0000"
     },
     "done": true
   },
@@ -412,7 +441,7 @@
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "entered_water": "2017-08-26 17:18:11 +0000"
+      "in_water": "2019-05-18 04:20:34 +0000"
     },
     "done": true
   },
@@ -434,15 +463,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2017-08-26 17:18:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "entered_water": "2017-08-26 17:18:11 +0000"
+      "in_water": "2019-05-18 04:20:34 +0000"
     },
     "done": true
   },
@@ -452,21 +475,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2017-08-26 16:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_at_least_9_diamond": "2017-08-26 16:53:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2017-08-26 16:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
@@ -490,7 +519,7 @@
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "entered_water": "2017-08-26 17:18:11 +0000"
+      "in_water": "2019-05-18 04:20:34 +0000"
     },
     "done": true
   },
@@ -514,16 +543,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "skeleton": "2017-08-26 16:56:36 +0000",
-      "zombie": "2017-08-26 17:00:25 +0000",
-      "spider": "2017-08-26 18:23:16 +0000",
-      "creeper": "2017-08-26 17:00:11 +0000"
+      "minecraft:skeleton": "2017-08-26 16:56:36 +0000",
+      "minecraft:spider": "2017-08-26 18:23:16 +0000",
+      "minecraft:zombie": "2017-08-26 17:00:25 +0000",
+      "minecraft:creeper": "2017-08-26 17:00:11 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/lit_pumpkin": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_pumpkin": "2017-08-26 17:05:11 +0000"
+      "entered_nether": "2019-05-18 04:24:07 +0000"
     },
     "done": true
   },
@@ -533,21 +562,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-05-18 04:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2017-08-26 16:53:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2017-08-26 18:03:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2017-08-26 16:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-05-18 04:16:47 +0000"
     },
     "done": true
   },
@@ -572,6 +607,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2017-08-26 16:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-05-18 04:20:34 +0000"
     },
     "done": true
   },
