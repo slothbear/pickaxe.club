@@ -663,16 +663,16 @@
       "minecraft:shulker": "2017-06-09 20:42:18 +0000",
       "minecraft:cave_spider": "2017-06-17 19:57:50 +0000",
       "minecraft:guardian": "2017-06-10 03:46:53 +0000",
-      "minecraft:enderman": "2017-06-09 20:35:45 +0000",
       "minecraft:vindicator": "2017-07-15 15:51:36 +0000",
+      "minecraft:enderman": "2017-06-09 20:35:45 +0000",
       "minecraft:magma_cube": "2017-12-09 01:26:07 +0000",
       "minecraft:spider": "2017-06-10 04:00:21 +0000",
       "minecraft:zombie": "2017-06-10 03:59:33 +0000",
-      "minecraft:drowned": "2019-02-20 23:44:50 +0000",
       "minecraft:creeper": "2017-06-10 15:56:49 +0000",
+      "minecraft:drowned": "2019-02-20 23:44:50 +0000",
       "minecraft:zombie_villager": "2017-06-11 17:30:31 +0000",
-      "minecraft:evoker": "2017-07-15 15:51:50 +0000",
-      "minecraft:slime": "2017-06-10 17:04:33 +0000"
+      "minecraft:slime": "2017-06-10 17:04:33 +0000",
+      "minecraft:evoker": "2017-07-15 15:51:50 +0000"
     },
     "done": false
   },
@@ -1184,10 +1184,10 @@
     "criteria": {
       "minecraft:jungle_edge": "2017-06-10 15:28:20 +0000",
       "minecraft:snowy_mountains": "2017-06-10 15:14:12 +0000",
-      "minecraft:mountains": "2017-06-10 03:17:50 +0000",
-      "minecraft:mushroom_fields": "2017-06-10 15:47:10 +0000",
-      "minecraft:badlands_plateau": "2017-06-10 03:11:23 +0000",
       "minecraft:forest": "2017-06-10 03:17:57 +0000",
+      "minecraft:badlands_plateau": "2017-06-10 03:11:23 +0000",
+      "minecraft:mushroom_fields": "2017-06-10 15:47:10 +0000",
+      "minecraft:mountains": "2017-06-10 03:17:50 +0000",
       "minecraft:taiga": "2017-06-10 03:17:45 +0000",
       "minecraft:desert_hills": "2017-06-10 17:50:30 +0000",
       "minecraft:giant_tree_taiga": "2017-06-10 15:39:35 +0000",
@@ -1207,16 +1207,16 @@
       "minecraft:savanna_plateau": "2017-06-10 03:52:49 +0000",
       "minecraft:beach": "2017-06-09 20:12:34 +0000",
       "minecraft:dark_forest": "2017-06-10 15:28:02 +0000",
-      "minecraft:lukewarm_ocean": "2019-03-24 21:40:38 +0000",
       "minecraft:river": "2017-06-09 20:12:33 +0000",
+      "minecraft:lukewarm_ocean": "2019-03-24 21:40:38 +0000",
       "minecraft:snowy_taiga": "2017-06-10 15:14:49 +0000",
       "minecraft:birch_forest_hills": "2017-06-10 15:29:10 +0000",
       "minecraft:wooded_mountains": "2017-06-10 15:22:04 +0000",
       "minecraft:wooded_hills": "2017-06-10 03:18:03 +0000",
-      "minecraft:stone_shore": "2017-06-10 15:22:25 +0000",
       "minecraft:giant_tree_taiga_hills": "2017-06-10 15:39:43 +0000",
-      "minecraft:mushroom_field_shore": "2017-06-10 15:47:13 +0000",
+      "minecraft:stone_shore": "2017-06-10 15:22:25 +0000",
       "minecraft:wooded_badlands_plateau": "2017-06-10 03:09:46 +0000",
+      "minecraft:mushroom_field_shore": "2017-06-10 15:47:13 +0000",
       "minecraft:swamp": "2017-06-10 15:28:15 +0000",
       "minecraft:snowy_taiga_hills": "2017-06-10 15:14:52 +0000",
       "minecraft:savanna": "2017-06-09 20:12:37 +0000",
@@ -1971,15 +1971,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2017-06-09 20:10:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2017-06-09 20:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-09 20:10:26 +0000"
     },
     "done": true
   },
@@ -2025,15 +2025,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2017-06-09 20:10:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2017-06-09 20:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2017-06-09 20:10:26 +0000"
     },
     "done": true
   },
@@ -2638,15 +2638,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2017-06-09 20:23:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2017-06-09 20:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2017-06-09 20:23:48 +0000"
     },
     "done": true
   },
