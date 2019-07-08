@@ -245,9 +245,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_lots_of_items": "2017-06-10 00:39:46 +0000"
+      "diamond_leggings": "2017-06-10 00:39:46 +0000",
+      "diamond_helmet": "2017-06-10 00:39:46 +0000",
+      "diamond_boots": "2017-06-10 00:39:46 +0000"
     },
     "done": true
   },
@@ -257,11 +259,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "diamond_leggings": "2017-06-10 00:39:46 +0000",
-      "diamond_helmet": "2017-06-10 00:39:46 +0000",
-      "diamond_boots": "2017-06-10 00:39:46 +0000"
+      "has_lots_of_items": "2017-06-10 00:39:46 +0000"
     },
     "done": true
   },
@@ -577,13 +577,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-10 02:45:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-10 02:45:06 +0000"
     },
@@ -702,9 +702,9 @@
       "minecraft:mooshroom": "2017-06-10 07:06:54 +0000",
       "minecraft:cow": "2017-06-10 06:39:34 +0000",
       "minecraft:chicken": "2017-06-10 06:38:15 +0000",
-      "minecraft:pig": "2017-06-10 06:37:05 +0000",
-      "minecraft:llama": "2017-06-11 01:08:41 +0000",
       "minecraft:wolf": "2017-06-11 00:02:26 +0000",
+      "minecraft:llama": "2017-06-11 01:08:41 +0000",
+      "minecraft:pig": "2017-06-10 06:37:05 +0000",
       "minecraft:horse": "2017-06-10 06:45:28 +0000",
       "minecraft:sheep": "2017-06-10 06:38:00 +0000"
     },
@@ -1857,9 +1857,9 @@
     "criteria": {
       "minecraft:jungle_edge": "2017-06-11 02:25:09 +0000",
       "minecraft:snowy_mountains": "2017-06-11 00:12:04 +0000",
-      "minecraft:mountains": "2017-06-10 06:50:25 +0000",
-      "minecraft:mushroom_fields": "2017-06-10 07:06:33 +0000",
       "minecraft:forest": "2017-06-10 00:40:21 +0000",
+      "minecraft:mushroom_fields": "2017-06-10 07:06:33 +0000",
+      "minecraft:mountains": "2017-06-10 06:50:25 +0000",
       "minecraft:taiga": "2017-06-10 02:41:53 +0000",
       "minecraft:desert_hills": "2017-06-10 07:17:59 +0000",
       "minecraft:giant_tree_taiga": "2017-06-11 00:11:08 +0000",
@@ -1880,10 +1880,10 @@
       "minecraft:birch_forest_hills": "2017-06-11 02:23:35 +0000",
       "minecraft:wooded_mountains": "2017-06-10 06:50:29 +0000",
       "minecraft:wooded_hills": "2017-06-10 02:41:31 +0000",
-      "minecraft:stone_shore": "2017-06-10 07:06:02 +0000",
       "minecraft:giant_tree_taiga_hills": "2017-06-11 00:11:09 +0000",
-      "minecraft:mushroom_field_shore": "2017-06-10 07:06:31 +0000",
+      "minecraft:stone_shore": "2017-06-10 07:06:02 +0000",
       "minecraft:wooded_badlands_plateau": "2017-06-10 06:24:42 +0000",
+      "minecraft:mushroom_field_shore": "2017-06-10 07:06:31 +0000",
       "minecraft:swamp": "2017-06-10 07:19:32 +0000",
       "minecraft:snowy_taiga_hills": "2017-06-11 00:12:13 +0000",
       "minecraft:savanna": "2017-06-10 00:44:11 +0000",
