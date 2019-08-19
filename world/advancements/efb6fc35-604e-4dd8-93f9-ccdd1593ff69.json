@@ -1011,6 +1011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2019-08-18 18:15:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-09 22:15:18 +0000"
