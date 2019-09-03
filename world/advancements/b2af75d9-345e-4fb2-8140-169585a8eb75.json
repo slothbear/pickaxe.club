@@ -194,15 +194,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_sand": "2017-10-01 20:09:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-10-01 20:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2017-10-01 20:09:15 +0000"
     },
     "done": true
   },
@@ -607,21 +607,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2017-10-01 20:09:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2017-10-01 20:09:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2017-10-01 20:09:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2018-02-24 22:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2019-08-31 22:58:44 +0000"
     },
     "done": true
   },
@@ -890,6 +896,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2019-08-31 23:32:26 +0000",
+      "has_iron_boots": "2019-08-31 23:32:26 +0000",
+      "has_iron_leggings": "2019-08-31 23:32:26 +0000",
+      "has_iron_pickaxe": "2019-08-31 23:32:26 +0000",
+      "has_iron_helmet": "2019-08-31 23:32:26 +0000",
+      "has_iron_sword": "2019-08-31 23:32:26 +0000",
+      "has_iron_chestplate": "2019-08-31 23:32:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2018-09-09 17:12:01 +0000"
@@ -917,6 +935,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2017-10-14 04:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-08-31 23:00:50 +0000"
     },
     "done": true
   },
@@ -1244,6 +1268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-08-31 22:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2018-09-09 17:12:01 +0000"
@@ -1354,8 +1384,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2017-10-14 05:08:49 +0000",
       "minecraft:mountains": "2018-02-03 21:26:35 +0000",
+      "minecraft:forest": "2017-10-14 05:08:49 +0000",
       "minecraft:taiga": "2017-10-14 05:09:03 +0000",
       "minecraft:desert_hills": "2017-10-14 04:40:09 +0000",
       "minecraft:taiga_hills": "2018-02-03 21:47:50 +0000",
@@ -1503,12 +1533,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2019-08-04 06:14:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2017-11-26 09:08:28 +0000"
@@ -1518,6 +1542,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2017-11-26 09:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-08-04 06:14:26 +0000"
     },
     "done": true
   },

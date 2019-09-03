@@ -6,6 +6,18 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "76ebbd40-11ca-43e7-a605-3b8d553abd53",
+    "name": "sleeplessbooks",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b3ab4001-dc05-4a06-a8bb-2edb5766892a",
+    "name": "wuapinmon",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "806ecb0a-663b-4783-850b-87dcb53ffb04",
     "name": "qrush",
     "level": 4,
