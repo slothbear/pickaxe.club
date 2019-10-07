@@ -167,17 +167,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2017-06-09 18:35:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2017-06-09 18:35:27 +0000",
       "diamond_helmet": "2017-06-09 18:35:27 +0000",
       "diamond_boots": "2017-06-09 18:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-06-09 18:35:27 +0000"
     },
     "done": true
   },
@@ -627,17 +627,17 @@
       "minecraft:shulker": "2017-06-09 20:44:47 +0000",
       "minecraft:cave_spider": "2017-06-10 21:25:24 +0000",
       "minecraft:guardian": "2017-06-09 21:43:47 +0000",
-      "minecraft:stray": "2017-06-10 06:18:40 +0000",
-      "minecraft:vindicator": "2017-07-15 15:38:27 +0000",
-      "minecraft:silverfish": "2017-06-10 14:04:53 +0000",
       "minecraft:enderman": "2017-06-09 20:35:07 +0000",
+      "minecraft:silverfish": "2017-06-10 14:04:53 +0000",
+      "minecraft:vindicator": "2017-07-15 15:38:27 +0000",
+      "minecraft:stray": "2017-06-10 06:18:40 +0000",
       "minecraft:magma_cube": "2017-06-09 22:12:44 +0000",
       "minecraft:spider": "2017-06-10 06:17:55 +0000",
       "minecraft:zombie": "2017-06-09 21:39:56 +0000",
       "minecraft:creeper": "2017-06-09 21:40:21 +0000",
       "minecraft:zombie_villager": "2017-06-10 06:38:30 +0000",
-      "minecraft:slime": "2017-06-10 05:37:20 +0000",
-      "minecraft:evoker": "2017-07-15 15:36:58 +0000"
+      "minecraft:evoker": "2017-07-15 15:36:58 +0000",
+      "minecraft:slime": "2017-06-10 05:37:20 +0000"
     },
     "done": false
   },
@@ -1131,10 +1131,10 @@
     "criteria": {
       "minecraft:jungle_edge": "2017-06-10 05:57:05 +0000",
       "minecraft:snowy_mountains": "2017-06-09 22:34:24 +0000",
-      "minecraft:forest": "2017-06-09 19:24:40 +0000",
-      "minecraft:badlands_plateau": "2017-06-09 21:51:39 +0000",
-      "minecraft:mushroom_fields": "2017-06-09 22:33:00 +0000",
       "minecraft:mountains": "2017-06-09 19:28:55 +0000",
+      "minecraft:mushroom_fields": "2017-06-09 22:33:00 +0000",
+      "minecraft:badlands_plateau": "2017-06-09 21:51:39 +0000",
+      "minecraft:forest": "2017-06-09 19:24:40 +0000",
       "minecraft:taiga": "2017-06-09 21:46:11 +0000",
       "minecraft:desert_hills": "2017-06-09 19:25:23 +0000",
       "minecraft:giant_tree_taiga": "2017-06-09 22:30:18 +0000",
@@ -1155,10 +1155,10 @@
       "minecraft:birch_forest_hills": "2017-06-09 21:47:04 +0000",
       "minecraft:wooded_mountains": "2017-06-09 21:38:20 +0000",
       "minecraft:wooded_hills": "2017-06-09 22:19:25 +0000",
-      "minecraft:giant_tree_taiga_hills": "2017-06-09 22:30:24 +0000",
       "minecraft:stone_shore": "2017-06-09 19:29:00 +0000",
-      "minecraft:wooded_badlands_plateau": "2017-06-09 21:51:34 +0000",
+      "minecraft:giant_tree_taiga_hills": "2017-06-09 22:30:24 +0000",
       "minecraft:mushroom_field_shore": "2017-06-09 22:32:59 +0000",
+      "minecraft:wooded_badlands_plateau": "2017-06-09 21:51:34 +0000",
       "minecraft:swamp": "2017-06-09 21:47:37 +0000",
       "minecraft:snowy_taiga_hills": "2017-06-10 06:08:57 +0000",
       "minecraft:savanna": "2017-06-09 18:36:00 +0000",
@@ -1826,12 +1826,12 @@
       "minecraft:ocelot": "2017-06-11 03:23:43 +0000",
       "minecraft:cow": "2017-06-10 20:33:13 +0000",
       "minecraft:chicken": "2017-06-09 22:50:26 +0000",
-      "minecraft:wolf": "2017-06-10 21:18:33 +0000",
-      "minecraft:llama": "2017-06-10 21:41:30 +0000",
       "minecraft:pig": "2017-06-09 20:06:13 +0000",
+      "minecraft:llama": "2017-06-10 21:41:30 +0000",
+      "minecraft:wolf": "2017-06-10 21:18:33 +0000",
       "minecraft:horse": "2017-06-10 20:55:13 +0000",
-      "minecraft:sheep": "2017-06-10 20:38:42 +0000",
-      "minecraft:rabbit": "2017-06-11 03:12:22 +0000"
+      "minecraft:rabbit": "2017-06-11 03:12:22 +0000",
+      "minecraft:sheep": "2017-06-10 20:38:42 +0000"
     },
     "done": false
   },
