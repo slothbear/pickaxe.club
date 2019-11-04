@@ -941,13 +941,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-08-11 16:17:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-08-11 16:17:35 +0000"
     },
@@ -1758,9 +1758,9 @@
     "criteria": {
       "minecraft:jungle_edge": "2018-08-12 19:22:40 +0000",
       "minecraft:snowy_mountains": "2018-08-10 19:56:07 +0000",
-      "minecraft:forest": "2018-08-06 16:26:42 +0000",
-      "minecraft:badlands_plateau": "2018-08-10 19:47:53 +0000",
       "minecraft:mountains": "2018-08-06 02:07:58 +0000",
+      "minecraft:badlands_plateau": "2018-08-10 19:47:53 +0000",
+      "minecraft:forest": "2018-08-06 16:26:42 +0000",
       "minecraft:taiga": "2018-08-07 01:52:51 +0000",
       "minecraft:desert_hills": "2018-08-07 02:36:45 +0000",
       "minecraft:snowy_tundra": "2018-08-10 19:55:58 +0000",
