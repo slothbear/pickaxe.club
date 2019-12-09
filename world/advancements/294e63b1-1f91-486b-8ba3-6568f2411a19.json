@@ -593,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-12-07 22:32:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2017-06-10 00:22:53 +0000"
@@ -1255,6 +1261,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2017-06-10 15:52:08 +0000",
+      "minecraft:cold_ocean": "2019-12-07 22:31:21 +0000",
       "minecraft:snowy_mountains": "2017-06-10 00:36:09 +0000",
       "minecraft:mountains": "2017-06-09 21:48:53 +0000",
       "minecraft:mushroom_fields": "2017-06-10 15:06:21 +0000",
@@ -1263,6 +1270,7 @@
       "minecraft:taiga": "2017-06-09 21:48:41 +0000",
       "minecraft:desert_hills": "2017-06-09 21:48:13 +0000",
       "minecraft:giant_tree_taiga": "2017-06-10 15:41:10 +0000",
+      "minecraft:deep_cold_ocean": "2019-12-07 22:31:19 +0000",
       "minecraft:snowy_tundra": "2017-06-09 22:18:53 +0000",
       "minecraft:taiga_hills": "2017-06-09 21:48:48 +0000",
       "minecraft:desert": "2017-06-09 21:48:10 +0000",
@@ -1271,10 +1279,12 @@
       "minecraft:birch_forest": "2017-06-09 21:49:56 +0000",
       "minecraft:jungle_hills": "2017-06-10 15:35:27 +0000",
       "minecraft:snowy_beach": "2017-06-10 00:36:05 +0000",
+      "minecraft:deep_lukewarm_ocean": "2019-12-08 22:39:53 +0000",
       "minecraft:badlands": "2017-06-10 15:10:17 +0000",
       "minecraft:savanna_plateau": "2017-06-09 21:48:01 +0000",
       "minecraft:beach": "2017-06-09 20:55:21 +0000",
       "minecraft:dark_forest": "2017-06-09 21:49:31 +0000",
+      "minecraft:lukewarm_ocean": "2019-12-08 22:39:47 +0000",
       "minecraft:river": "2017-06-09 21:03:57 +0000",
       "minecraft:snowy_taiga": "2017-06-09 22:18:43 +0000",
       "minecraft:birch_forest_hills": "2017-06-24 02:11:39 +0000",
@@ -2011,15 +2021,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2017-06-09 21:20:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2017-06-09 21:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2017-06-09 21:20:51 +0000"
     },
     "done": true
   },

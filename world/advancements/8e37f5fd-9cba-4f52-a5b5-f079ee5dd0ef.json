@@ -379,6 +379,7 @@
       "cooked_porkchop": "2018-08-12 03:34:23 +0000",
       "cooked_mutton": "2018-08-10 23:43:54 +0000",
       "cooked_beef": "2018-08-11 16:34:01 +0000",
+      "baked_potato": "2019-12-08 02:42:34 +0000",
       "cooked_cod": "2018-09-17 00:20:30 +0000",
       "mutton": "2018-08-07 02:43:48 +0000",
       "bread": "2019-10-12 16:50:28 +0000",
@@ -488,13 +489,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-08-07 03:01:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-08-07 03:01:21 +0000"
     },
