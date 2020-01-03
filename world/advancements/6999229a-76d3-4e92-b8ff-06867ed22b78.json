@@ -77,27 +77,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_wool": {
-    "criteria": {
-      "has_white_wool": "2018-10-27 20:53:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2018-10-27 20:39:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
+  "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
-      "has_compass": "2018-10-27 20:39:46 +0000"
+      "has_white_wool": "2018-10-27 20:53:20 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2018-10-27 20:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2018-10-27 20:39:46 +0000"
     },
     "done": true
   },
@@ -113,18 +113,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2018-03-02 23:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2018-03-02 23:50:32 +0000",
       "diamond_helmet": "2018-03-02 23:50:32 +0000",
       "diamond_chestplate": "2018-03-02 23:50:32 +0000",
       "diamond_boots": "2018-03-02 23:50:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2018-03-02 23:50:32 +0000"
     },
     "done": true
   },
@@ -184,7 +184,7 @@
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "entered_water": "2018-03-02 23:53:58 +0000"
+      "in_water": "2020-01-01 20:32:38 +0000"
     },
     "done": true
   },
@@ -253,19 +253,20 @@
       "cooked_mutton": "2018-03-03 00:27:04 +0000",
       "cooked_beef": "2018-03-03 00:07:53 +0000",
       "cooked_cod": "2018-10-27 21:05:52 +0000",
+      "golden_carrot": "2020-01-01 20:37:29 +0000",
       "cooked_chicken": "2018-10-27 20:36:58 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2018-10-27 21:07:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2018-10-27 20:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2018-10-27 21:07:40 +0000"
     },
     "done": true
   },
@@ -305,12 +306,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_block": {
-    "criteria": {
-      "has_the_recipe": "2018-03-02 23:50:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2018-03-02 23:50:32 +0000"
@@ -320,6 +315,18 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2018-10-27 20:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-01-01 20:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2018-03-02 23:54:13 +0000"
     },
     "done": true
   },
@@ -338,6 +345,12 @@
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2018-10-27 20:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2018-10-27 20:39:09 +0000"
     },
     "done": true
   },
@@ -377,12 +390,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/noteblock": {
-    "criteria": {
-      "has_redstone": "2018-10-27 20:39:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2018-03-02 23:56:57 +0000"
@@ -397,7 +404,7 @@
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "zombie": "2018-10-27 20:33:18 +0000"
+      "minecraft:zombie": "2018-10-27 20:33:18 +0000"
     },
     "done": true
   },
@@ -463,16 +470,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest": "2018-03-02 23:53:37 +0000",
-      "deep_ocean": "2018-03-03 00:18:25 +0000",
-      "beaches": "2018-03-03 00:18:22 +0000",
-      "forest_hills": "2018-10-27 21:03:30 +0000",
-      "savanna": "2018-03-03 00:38:07 +0000",
-      "plains": "2018-03-02 23:50:33 +0000",
-      "taiga": "2018-10-27 21:05:41 +0000",
-      "ocean": "2018-03-03 00:22:33 +0000",
-      "river": "2018-03-03 00:22:34 +0000",
-      "jungle": "2018-03-02 23:51:59 +0000"
+      "minecraft:forest": "2018-03-02 23:53:37 +0000",
+      "minecraft:taiga": "2018-10-27 21:05:41 +0000",
+      "minecraft:jungle": "2018-03-02 23:51:59 +0000",
+      "minecraft:beach": "2018-03-03 00:18:22 +0000",
+      "minecraft:river": "2018-03-03 00:22:34 +0000",
+      "minecraft:wooded_hills": "2018-10-27 21:03:30 +0000",
+      "minecraft:savanna": "2018-03-03 00:38:07 +0000",
+      "minecraft:plains": "2018-03-02 23:50:33 +0000"
     },
     "done": false
   },
@@ -514,7 +519,7 @@
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "entered_water": "2018-03-02 23:53:58 +0000"
+      "in_water": "2020-01-01 20:32:38 +0000"
     },
     "done": true
   },
@@ -556,7 +561,7 @@
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "entered_water": "2018-03-02 23:53:58 +0000"
+      "in_water": "2020-01-01 20:32:38 +0000"
     },
     "done": true
   },
@@ -578,21 +583,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2018-03-02 23:53:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "entered_water": "2018-03-02 23:53:58 +0000"
+      "in_water": "2020-01-01 20:32:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2018-10-27 20:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_the_recipe": "2018-03-02 23:50:32 +0000"
     },
     "done": true
   },
@@ -616,13 +621,19 @@
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "entered_water": "2018-03-02 23:53:58 +0000"
+      "in_water": "2020-01-01 20:32:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2018-03-02 23:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-01-01 20:37:13 +0000"
     },
     "done": true
   },
@@ -634,9 +645,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie_pigman": "2018-10-27 20:43:51 +0000",
-      "skeleton": "2018-10-27 20:50:03 +0000",
-      "zombie": "2018-10-27 20:33:18 +0000"
+      "minecraft:blaze": "2020-01-01 20:46:30 +0000",
+      "minecraft:skeleton": "2018-10-27 20:50:03 +0000",
+      "minecraft:wither_skeleton": "2020-01-01 20:45:32 +0000",
+      "minecraft:zombie_pigman": "2018-10-27 20:43:51 +0000",
+      "minecraft:magma_cube": "2020-01-01 20:45:38 +0000",
+      "minecraft:zombie": "2018-10-27 20:33:18 +0000"
     },
     "done": false
   },
@@ -706,9 +720,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_cobblestone": "2018-03-02 23:54:13 +0000"
+      "has_iron_pickaxe": "2020-01-01 20:25:38 +0000"
     },
     "done": true
   },
@@ -733,6 +747,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2018-10-27 20:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-01-01 20:32:38 +0000"
     },
     "done": true
   },

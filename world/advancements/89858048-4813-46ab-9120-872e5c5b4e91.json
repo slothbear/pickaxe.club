@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2019-12-28 05:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2017-07-10 14:31:10 +0000"
@@ -653,14 +659,14 @@
       "minecraft:husk": "2018-06-30 18:14:00 +0000",
       "minecraft:ghast": "2018-07-16 01:38:19 +0000",
       "minecraft:shulker": "2019-04-15 17:49:56 +0000",
-      "minecraft:stray": "2018-07-01 02:19:09 +0000",
-      "minecraft:silverfish": "2018-07-02 17:41:07 +0000",
       "minecraft:enderman": "2018-08-20 17:18:10 +0000",
+      "minecraft:silverfish": "2018-07-02 17:41:07 +0000",
+      "minecraft:stray": "2018-07-01 02:19:09 +0000",
       "minecraft:magma_cube": "2018-07-07 17:28:19 +0000",
       "minecraft:spider": "2017-07-15 02:24:52 +0000",
       "minecraft:zombie": "2017-07-10 13:23:47 +0000",
-      "minecraft:creeper": "2018-06-25 14:58:35 +0000",
       "minecraft:drowned": "2019-03-09 07:29:16 +0000",
+      "minecraft:creeper": "2018-06-25 14:58:35 +0000",
       "minecraft:zombie_villager": "2017-07-15 02:48:15 +0000",
       "minecraft:slime": "2018-09-09 20:19:48 +0000"
     },
@@ -835,6 +841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-12-28 05:15:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2018-08-20 17:16:30 +0000"
@@ -850,6 +862,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2018-07-07 20:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-12-28 05:14:05 +0000"
     },
     "done": true
   },
@@ -892,6 +910,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2018-08-13 05:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-12-28 05:13:32 +0000"
     },
     "done": true
   },
@@ -1227,13 +1251,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2018-09-24 16:10:13 +0000",
       "minecraft:cold_ocean": "2019-12-16 01:38:43 +0000",
+      "minecraft:jungle_edge": "2018-09-24 16:10:13 +0000",
       "minecraft:snowy_mountains": "2018-07-29 05:39:40 +0000",
-      "minecraft:forest": "2017-07-10 13:25:12 +0000",
-      "minecraft:mushroom_fields": "2018-12-03 04:32:54 +0000",
-      "minecraft:mountains": "2017-07-10 13:27:47 +0000",
       "minecraft:badlands_plateau": "2019-03-10 20:29:22 +0000",
+      "minecraft:mountains": "2017-07-10 13:27:47 +0000",
+      "minecraft:mushroom_fields": "2018-12-03 04:32:54 +0000",
+      "minecraft:forest": "2017-07-10 13:25:12 +0000",
       "minecraft:taiga": "2017-07-10 13:34:02 +0000",
       "minecraft:desert_hills": "2018-02-04 16:15:34 +0000",
       "minecraft:deep_cold_ocean": "2019-02-24 23:15:17 +0000",
@@ -1251,8 +1275,8 @@
       "minecraft:savanna_plateau": "2018-06-25 04:25:41 +0000",
       "minecraft:beach": "2018-06-24 21:39:14 +0000",
       "minecraft:dark_forest": "2018-06-25 04:26:40 +0000",
-      "minecraft:lukewarm_ocean": "2019-03-10 21:06:23 +0000",
       "minecraft:river": "2017-07-10 13:27:44 +0000",
+      "minecraft:lukewarm_ocean": "2019-03-10 21:06:23 +0000",
       "minecraft:snowy_taiga": "2018-07-01 03:04:55 +0000",
       "minecraft:birch_forest_hills": "2017-07-10 14:00:48 +0000",
       "minecraft:wooded_mountains": "2017-07-10 13:28:02 +0000",
@@ -1638,6 +1662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-12-28 05:13:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2017-07-10 14:31:10 +0000"
@@ -1818,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-12-28 05:15:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2019-02-21 17:00:21 +0000"
@@ -1827,6 +1863,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2017-07-10 14:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2019-12-28 05:15:02 +0000"
     },
     "done": true
   },
@@ -1979,8 +2021,8 @@
       "minecraft:cow": "2019-01-12 20:26:27 +0000",
       "minecraft:chicken": "2018-09-02 02:43:45 +0000",
       "minecraft:pig": "2018-09-02 02:46:16 +0000",
-      "minecraft:sheep": "2019-02-03 15:45:38 +0000",
-      "minecraft:rabbit": "2018-09-02 02:45:15 +0000"
+      "minecraft:rabbit": "2018-09-02 02:45:15 +0000",
+      "minecraft:sheep": "2019-02-03 15:45:38 +0000"
     },
     "done": false
   },
@@ -2626,6 +2668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-12-28 05:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2017-07-10 14:20:03 +0000"
@@ -2947,6 +2995,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2018-07-30 02:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-12-28 05:13:32 +0000"
     },
     "done": true
   },
