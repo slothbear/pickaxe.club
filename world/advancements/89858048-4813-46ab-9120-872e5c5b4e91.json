@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2020-02-09 21:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2017-07-08 15:56:18 +0000"
@@ -56,6 +62,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2017-07-10 14:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-02-09 21:10:06 +0000"
     },
     "done": true
   },
@@ -2434,6 +2446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-02-09 21:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-10 13:28:46 +0000"
@@ -2479,6 +2497,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2017-07-10 13:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-02-09 21:12:20 +0000"
     },
     "done": true
   },
@@ -2857,6 +2881,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2018-06-25 15:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2020-02-09 21:12:06 +0000"
     },
     "done": true
   },
