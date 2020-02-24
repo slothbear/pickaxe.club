@@ -276,6 +276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2020-02-21 21:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_the_recipe": "2017-07-23 18:30:59 +0000"
@@ -360,6 +366,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-02-22 05:53:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-23 02:23:22 +0000"
@@ -375,6 +387,12 @@
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_magenta_wool": "2018-08-25 17:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-02-22 05:19:09 +0000"
     },
     "done": true
   },
@@ -677,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-02-22 19:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2017-07-23 13:59:35 +0000"
@@ -875,6 +899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-02-21 20:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2017-07-23 02:58:06 +0000"
@@ -884,6 +914,12 @@
   "minecraft:recipes/decorations/purple_glazed_terracotta": {
     "criteria": {
       "has_purple_terracotta": "2020-02-16 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-02-22 05:19:09 +0000"
     },
     "done": true
   },
@@ -1690,7 +1726,8 @@
       "bread": "2018-12-09 02:47:02 +0000",
       "cookie": "2017-07-23 14:45:53 +0000",
       "cooked_chicken": "2017-07-23 14:29:14 +0000",
-      "cooked_salmon": "2017-09-09 02:16:38 +0000"
+      "cooked_salmon": "2017-09-09 02:16:38 +0000",
+      "carrot": "2020-02-22 05:51:18 +0000"
     },
     "done": false
   },
@@ -2027,6 +2064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-02-21 21:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2017-09-03 18:23:27 +0000"
@@ -2180,6 +2223,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_at_least_9_slime_ball": "2018-11-18 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-02-22 05:52:38 +0000"
     },
     "done": true
   },
