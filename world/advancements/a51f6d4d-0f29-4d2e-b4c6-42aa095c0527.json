@@ -210,6 +210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2020-02-29 00:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2020-02-17 21:44:11 +0000"
@@ -929,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2020-03-01 18:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:47:13 +0000"
@@ -1109,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-02-29 00:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2017-07-23 13:59:35 +0000"
@@ -1183,6 +1201,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2020-03-01 16:32:04 +0000",
       "minecraft:snowy_mountains": "2018-11-18 21:14:59 +0000",
       "minecraft:mountains": "2017-07-23 13:44:11 +0000",
       "minecraft:forest": "2017-07-23 01:20:40 +0000",
@@ -1192,12 +1211,16 @@
       "minecraft:taiga_hills": "2017-07-23 13:43:49 +0000",
       "minecraft:desert": "2017-07-23 14:55:58 +0000",
       "minecraft:frozen_river": "2018-11-18 21:15:57 +0000",
+      "minecraft:jungle": "2020-03-01 16:32:05 +0000",
       "minecraft:birch_forest": "2017-09-09 01:38:56 +0000",
+      "minecraft:jungle_hills": "2020-03-01 16:32:07 +0000",
       "minecraft:snowy_beach": "2018-11-18 21:15:54 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-03-01 23:40:06 +0000",
       "minecraft:savanna_plateau": "2017-07-23 14:53:58 +0000",
       "minecraft:beach": "2017-07-23 01:28:27 +0000",
       "minecraft:dark_forest": "2020-02-15 17:10:45 +0000",
       "minecraft:river": "2017-07-23 01:28:28 +0000",
+      "minecraft:lukewarm_ocean": "2020-03-01 23:40:12 +0000",
       "minecraft:birch_forest_hills": "2017-09-09 01:40:57 +0000",
       "minecraft:wooded_mountains": "2017-09-09 01:38:37 +0000",
       "minecraft:wooded_hills": "2017-07-23 13:44:18 +0000",
@@ -1408,6 +1431,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-03-01 05:06:21 +0000"
     },
     "done": true
   },
@@ -2631,6 +2660,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2018-11-18 21:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-02-29 00:24:37 +0000"
     },
     "done": true
   },
