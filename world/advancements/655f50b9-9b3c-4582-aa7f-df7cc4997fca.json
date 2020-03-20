@@ -149,15 +149,15 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2017-07-01 00:39:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2017-07-01 00:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2017-07-01 00:39:32 +0000"
     },
     "done": true
   },
@@ -248,12 +248,6 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2017-07-01 00:42:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_at_least_9_emerald": "2018-12-01 17:35:56 +0000"
     },
     "done": true
   },
@@ -398,12 +392,6 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-03-09 01:00:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar": {
-    "criteria": {
-      "has_reeds": "2017-07-01 01:21:42 +0000"
     },
     "done": true
   },
@@ -581,6 +569,7 @@
       "minecraft:skeleton": "2017-07-01 01:24:54 +0000",
       "minecraft:spider": "2017-07-01 15:41:01 +0000",
       "minecraft:creeper": "2017-07-02 17:15:51 +0000",
+      "minecraft:phantom": "2020-03-20 01:50:59 +0000",
       "minecraft:husk": "2017-07-01 01:34:38 +0000",
       "minecraft:enderman": "2017-08-07 01:20:36 +0000",
       "minecraft:zombie": "2017-07-01 01:34:19 +0000"
@@ -608,12 +597,6 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-03-09 00:35:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_at_least_9_redstone": "2017-07-01 02:06:45 +0000"
     },
     "done": true
   },
@@ -678,6 +661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2020-03-20 13:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2017-08-07 00:55:43 +0000"
@@ -711,6 +700,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-07-02 19:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2020-03-20 13:22:51 +0000"
     },
     "done": true
   },
@@ -768,21 +763,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_at_least_9_iron_ingot": "2017-07-01 01:29:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2020-03-09 00:37:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-20 01:36:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2017-07-15 17:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-03-20 13:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-03-20 13:59:00 +0000"
     },
     "done": true
   },
@@ -861,6 +868,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2017-07-15 17:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-03-20 13:59:15 +0000"
     },
     "done": true
   },
@@ -1071,8 +1084,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2017-07-01 00:43:06 +0000",
       "minecraft:mountains": "2017-07-15 17:10:39 +0000",
+      "minecraft:forest": "2017-07-01 00:43:06 +0000",
       "minecraft:taiga": "2018-12-01 17:48:22 +0000",
       "minecraft:desert_hills": "2017-07-02 19:49:23 +0000",
       "minecraft:taiga_hills": "2018-12-01 20:20:06 +0000",
@@ -1179,6 +1192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2020-03-20 13:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-09 00:19:32 +0000"
@@ -1191,21 +1210,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_at_least_9_diamond": "2018-01-28 14:35:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-07-02 19:47:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_at_least_9_lapis": "2017-07-01 02:51:45 +0000"
     },
     "done": true
   },
@@ -1480,6 +1487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2020-03-20 13:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2017-07-01 00:55:51 +0000"
@@ -1519,6 +1532,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-09 00:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2017-07-01 01:21:42 +0000"
     },
     "done": true
   },
@@ -1616,12 +1635,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_at_least_9_wheat": "2017-07-01 01:20:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_lime_wool": "2018-12-01 19:30:29 +0000"
@@ -1643,6 +1656,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2017-07-02 19:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2020-03-20 13:22:51 +0000"
     },
     "done": true
   },
@@ -1958,12 +1977,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_at_least_9_gold_nugget": "2017-10-13 22:24:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2017-07-01 02:51:45 +0000"
@@ -1991,6 +2004,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-09 00:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-03-20 01:48:03 +0000"
     },
     "done": true
   },
@@ -2146,7 +2165,7 @@
   },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_at_least_9_coal": "2017-07-01 01:53:05 +0000"
+      "has_coal": "2020-03-20 01:43:47 +0000"
     },
     "done": true
   },
@@ -2300,6 +2319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2020-03-20 13:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2018-04-21 20:39:53 +0000"
@@ -2336,15 +2361,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_red_wool": "2018-12-01 19:23:08 +0000"
+      "has_snowball": "2020-03-20 01:48:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/decorations/red_bed": {
     "criteria": {
-      "has_at_least_9_iron_nugget": "2017-07-01 01:14:06 +0000"
+      "has_red_wool": "2018-12-01 19:23:08 +0000"
     },
     "done": true
   },
@@ -2546,5 +2571,5 @@
     },
     "done": true
   },
-  "DataVersion": 1976
+  "DataVersion": 2230
 }
